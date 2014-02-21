@@ -2,3 +2,7 @@ Montreal-Protocol
 =================
 
 This is Montreal Protocol on Substances that Deplete the Ozone Layer, in its current form and original form and all revisions between.
+
+For the convenience of comparing differences between revisions, each sentence will be occupying a line, with empty line denoting paragraph separators.
+
+Markdown is used to signify headings and emphasis.
