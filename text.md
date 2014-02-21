@@ -190,17 +190,31 @@ This paragraph will apply save to the extent that the Parties decide to permit t
 
 `  `(b) Its calculated level of consumption in 1989 of the controlled substances in Group I of Annex C.
 
-2\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2004, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, sixty-five per cent of the sum referred to in paragraph 1 of this Article.
+2\. Each Party producing one or more of these substances shall ensure that for the twelve-month period commencing on 1 January 2004, and in each twelve-month period thereafter, its calculated level of production of the controlled substances in Group I of Annex C does not exceed, annually, the average of:
 
-3\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2010, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, thirty-five per cent of the sum referred to in paragraph 1 of this Article.
+`  `(a) The sum of its calculated level of consumption in 1989 of the controlled substances in Group I of Annex C and two point eight per cent of its calculated level of consumption in 1989 of the controlled substances in Group I of Annex A; and
 
-4\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2015, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, ten per cent of the sum referred to in paragraph 1 of this Article.
+`  `(b) The sum of its calculated level of production in 1989 of the controlled substances in Group I of Annex C and two point eight per cent of its calculated level of production in 1989 of the controlled substances in Group I of Annex A.
 
-5\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2020, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, zero point five per cent of the sum referred to in paragraph 1 of this Article.
-Such consumption shall, however, be restricted to the servicing of refrigeration and air conditioning equipment existing at that date.
+However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production of the controlled substances in Group I of Annex C as defined above.
 
+3\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2004, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, sixty-five per cent of the sum referred to in paragraph 1 of this Article.
 
-6\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2030, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed zero.
+4\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2010, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, twenty-five per cent of the sum referred to in paragraph 1 of this Article.
+Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the controlled substances in Group I of Annex C does not exceed, annually, twenty-five per cent of the calculated level referred to in paragraph 2 of this Article.
+However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production of the controlled substances in Group I of Annex C as referred to in paragraph 2.
+
+5\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2015, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, ten per cent of the sum referred to in paragraph 1 of this Article.
+Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the controlled substances in Group I of Annex C does not exceed, annually, ten per cent of the calculated level referred to in paragraph 2 of this Article.
+However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production of the controlled substances in Group I of Annex C as referred to in paragraph 2.
+
+6\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2020, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed zero.
+Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the controlled substances in Group I of Annex C does not exceed zero.
+However:
+
+(a) Each Party may exceed that limit on consumption by up to zero point five per cent of the sum referred to in paragraph 1 of this Article in any such twelve-month period ending before 1 January 2030, provided that such consumption shall be restricted to the servicing of refrigeration and air-conditioning equipment existing on 1 January 2020;
+
+(b) Each Party may exceed that limit on production by up to zero point five per cent of the average referred to in paragraph 2 of this Article in any such twelve-month period ending before 1 January 2030, provided that such production shall be restricted to the servicing of refrigeration and air-conditioning equipment existing on 1 January 2020.
 
 7\. As of 1 January 1996, each Party shall endeavour to ensure that:
 
@@ -209,14 +223,6 @@ Such consumption shall, however, be restricted to the servicing of refrigeration
 `  `(b) The use of controlled substances in Group I of Annex C is not outside the areas of application currently met by controlled substances in Annexes A, B and C, except in rare cases for the protection of human life or human health; and
 
 `  `(c) Controlled substances in Group I of Annex C are selected for use in a manner that minimizes ozone depletion, in addition to meeting other environmental, safety and economic considerations.
-
-8\. Each Party producing one or more of these substances shall ensure that for the twelve-month period commencing on 1 January 2004, and in each twelve-month period thereafter, its calculated level of production of the controlled substances in Group I of Annex C does not exceed, annually, the average of:
-
-`  `(a) The sum of its calculated level of consumption in 1989 of the controlled substances in Group I of Annex C and two point eight per cent of its calculated level of consumption in 1989 of the controlled substances in Group I of Annex A; and
-
-`  `(b) The sum of its calculated level of production in 1989 of the controlled substances in Group I of Annex C and two point eight per cent of its calculated level of production in 1989 of the controlled substances in Group I of Annex A.
-
-However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production of the controlled substances in Group I of Annex C as defined above.
 
 ## Article 2G: Hydrobromofluorocarbons
 
@@ -392,14 +398,28 @@ The Secretariat shall forthwith transmit a copy of the notification to the Parti
 
 8 *ter.* Pursuant to paragraph 1 bis above:
 
-`  `(a) Each Party operating under paragraph 1 of this Article shall ensure that for the twelve-month period commencing on 1 January 2016, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, its calculated level of consumption in 2015;
-As of 1 January 2016 each Party operating under paragraph 1 of this Article shall comply with the control measures set out in paragraph 8 of Article 2F and, as the basis for its compliance with these control measures, it shall use the average of its calculated levels of production and consumption in 2015;
+`  `(a) Each Party operating under paragraph 1 of this Article shall ensure that for the twelve-month period commencing on 1 January 2013, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, the average of its calculated levels of consumption in 2009 and 2010.
+Each Party operating under paragraph 1 of this Article shall ensure that for the twelve-month period commencing on 1 January 2013 and in each twelve-month period thereafter, its calculated level of production of the controlled substances in Group I of Annex C does not exceed, annually, the average of its calculated levels of production in 2009 and 2010;
 
-`  `(b) Each Party operating under paragraph 1 of this Article shall ensure that for the twelve-month period commencing on 1 January 2040, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed zero;
+`  `(b) Each Party operating under paragraph 1 of this Article shall ensure that for the twelve-month period commencing on 1 January 2015, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, ninety per cent of the average of its calculated levels of consumption in 2009 and 2010.
+Each such Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the controlled substances in Group I of Annex C does not exceed, annually, ninety per cent of the average of its calculated levels of production in 2009 and 2010;
 
-`  `(c) Each Party operating under paragraph 1 of this Article shall comply with Article 2G;
+`  `(c) Each Party operating under paragraph 1 of this Article shall ensure that for the twelve-month period commencing on 1 January 2020, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, sixty- five per cent of the average of its calculated levels of consumption in 2009 and 2010.
+Each such Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the controlled substances in Group I of Annex C does not exceed, annually, sixty-five per cent of the average of its calculated levels of production in 2009 and 2010;
 
-`  `(d) With regard to the controlled substance contained in Annex E:
+`  `(d) Each Party operating under paragraph 1 of this Article shall ensure that for the twelve-month period commencing on 1 January 2025, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, thirty- two point five per cent of the average of its calculated levels of consumption in 2009 and 2010.
+Each such Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the controlled substances in Group I of Annex C does not exceed, annually, thirty-two point five per cent of the average of its calculated levels of production in 2009 and 2010;
+
+`  `(e) Each Party operating under paragraph 1 of this Article shall ensure that for the twelve-month period commencing on 1 January 2030, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed zero.
+Each such Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the controlled substances in Group I of Annex C does not exceed zero. However:
+
+`  ` `  `(i) Each such Party may exceed that limit on consumption in any such twelve-month period so long as the sum of its calculated levels of consumption over the ten-year period from 1 January 2030 to 1 January 2040, divided by ten, does not exceed two point five per cent of the average of its calculated levels of consumption in 2009 and 2010, and provided that such consumption shall be restricted to the servicing of refrigeration and air-conditioning equipment existing on 1 January 2030;
+
+`  ` `  `(ii) Each such Party may exceed that limit on production in any such twelve-month period so long as the sum of its calculated levels of production over the ten-year period from  1 January 2030 to 1 January 2040, divided by ten, does not exceed two point five per cent of the average of its calculated levels of production in 2009 and 2010, and provided that such production shall be restricted to the servicing of refrigeration and air-conditioning equipment existing on 1 January 2030.
+
+`  `(f) Each Party operating under paragraph 1 of this Article shall comply with Article 2G;
+
+`  `(g) With regard to the controlled substance contained in Annex E:
 
 `  ` `  `(i) As of 1 January 2002 each Party operating under paragraph 1 of this Article shall comply with the control measures set out in paragraph 1 of Article 2H and, as the basis for its compliance with these control measures, it shall use the average of its annual calculated level of consumption and production, respectively, for the period of 1995 to 1998 inclusive;
 
