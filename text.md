@@ -234,3 +234,44 @@ Extraordinary meetings of the Parties shall be held at such other times as may b
 5\. The United Nations, its specialized agencies and the International Atomic Energy Agency, as well as any State not party to this Protocol, may be represented at meetings of the Parties as observers.
 Any body or agency, whether national or international, governmental or non-governmental, qualified in fields relating to the protection of the ozone layer which has informed the secretariat of its wish to be represented at a meeting of the Parties as an observer may be admitted unless at least one third of the Parties present object.
 The admission and participation of observers shall be subject to the rules of procedure adopted by the Parties.
+
+# Article 12: Secretariat
+
+For the purposes of this Protocol, the Secretariat shall:
+
+`  `(a) arrange for and service meetings of the Parties as provided for in Article 11;
+
+`  `(b) receive and make available, upon request by a Party, data provided pursuant to Article 7;
+
+`  `(c) prepare and distribute regularly to the Parties reports based on information received pursuant to Articles 7 and 9;
+
+`  `(d) notify the Parties of any request for technical assistance received pursuant to Article 10 so as to facilitate the provision of such assistance;
+
+`  `(e) encourage non-Parties to attend the meetings of the Parties as observers and to act in accordance with the provisions of this Protocol;
+
+`  `(f) provide, as appropriate, the information and requests referred to in subparagraphs (c) and (d) to such non-Party observers; and
+
+`  `(g) perform such other functions for the achievement of the purposes of this Protocol as may be assigned to it by the Parties.
+
+# Article 13: Financial provisions
+
+1\. The funds required for the operation of this Protocol, including those for the functioning of the Secretariat related to this Protocol, shall be charged exclusively against contributions from the Parties.
+
+2\. The Parties, at their first meeting, shall adopt by consensus financial rules for the operation of this Protocol.
+
+# Article 14: Relationship of this Protocol to the Convention
+
+Except as otherwise provided in this Protocol, the provisions of the Convention relating to its protocols shall apply to this Protocol.
+
+# Article 15: Signature
+
+This Protocol shall be open for signature by States and by regional economic integration organizations in Montreal on 16 September 1987, in Ottawa from 17 September 1987 to 16 January 1988, and at United Nations Headquarters in New York from 17 January 1988 to 15 September 1988.
+
+# Article 16: Entry into force
+
+1\. This Protocol shall enter into force on 1 January 1989, provided that at least eleven instruments of ratification, acceptance, approval of the Protocol or accession thereto have been deposited by States or regional economic integration organizations representing at least two-thirds of 1986 estimated global consumption of the controlled substances, and the provisions of paragraph 1 of Article 17 of the Convention have been fulfilled.
+In the event that these conditions have not been fulfilled by that date, the Protocol shall enter into force on the ninetieth day following the date on which the conditions have been fulfilled.
+
+2\. For the purposes of paragraph 1, any such instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by member States of such organization.
+
+3\. After the entry into force of this Protocol, any State or regional economic integration organization shall become a Party to it on the ninetieth day following the date of deposit of its instrument of ratification, acceptance, approval or accession.
