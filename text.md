@@ -147,3 +147,34 @@ Any such Party shall be entitled to use either the average of its annual calcula
 2\. The Parties undertake to facilitate access to environmentally safe alternative substances and technology for Parties that are developing countries and assist them to make expeditious use of such alternatives.
 
 3\. The Parties undertake to facilitate bilaterally or multilaterally the provision of subsidies, aid, credits, guarantees or insurance programmes to Parties that are developing countries for the use of alternative technology and for substitute products.
+
+# Article 6: Assessment and review of control measures
+
+Beginning in 1990, and at least every four years thereafter, the Parties shall assess the control measures provided for in Article 2 on the basis of available scientific, environmental, technical and economic information.
+At least one year before each assessment, the Parties shall convene appropriate panels of experts qualified in the fields mentioned and determine the composition and terms of reference of any such panels.
+Within one year of being convened, the panels will report their conclusions, through the Secretariat, to the Parties.
+
+# Article 7: Reporting of data
+
+1\. Each Party shall provide to the Secretariat, within three months of becoming a Party, statistical data on its production, imports and exports of each of the controlled substances for the year 1986, or the best possible estimates of such data where actual data are not available.
+
+2\. Each Party shall provide statistical data to the secretariat on its annual production (with separate data on amounts destroyed by technologies to be approved by the Parties), imports, and exports to Parties and non-Parties, respectively, of such substances for the year during which it becomes a Party and for each year thereafter.
+It shall forward the data no later than nine months after the end of the year to which the data relate.
+
+# Article 8: Non-compliance
+
+The Parties, at their first meeting, shall consider and approve procedures and institutional mechanisms for determining non-compliance with the provisions of this Protocol and for treatment of Parties found to be in non- compliance.
+
+# Article 9: Research, development, public awareness and exchange of information
+
+1\. The Parties shall co-operate, consistent with their national laws, regulations and practices and taking into account in particular the needs of developing countries, in promoting, directly or through competent international bodies, research, development and exchange of information on:
+
+`  `(a) best technologies for improving the containment, recovery, recycling, or destruction of controlled substances or otherwise reducing their emissions;
+
+`  `(b) possible alternatives to controlled substances, to products containing such substances, and to products manufactured with them; and
+
+`  `(c) costs and benefits of relevant control strategies.
+
+2\. The Parties, individually, jointly or through competent international bodies, shall co-operate in promoting public awareness of the environmental effects of the emissions of controlled substances and other substances that deplete the ozone layer.
+
+3\. Within two years of the entry into force of this Protocol and every two years thereafter, each Party shall submit to the Secretariat a summary of the activities it has conducted pursuant to this Article.
