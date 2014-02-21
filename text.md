@@ -16,9 +16,9 @@ The Parties to this Protocol,
 
 *Aware* that measures taken to protect the ozone layer from depletion should be based on relevant scientific knowledge, taking into account technical and economic considerations,
 
-*Determined* to protect the ozone layer by taking precautionary measures to control equitably total global emissions of substances that deplete it, with the ultimate objective of their elimination on the basis of developments in scientific knowledge, taking into account technical and economic considerations,
+*Determined* to protect the ozone layer by taking precautionary measures to control equitably total global emissions of substances that deplete it, with the ultimate objective of their elimination on the basis of developments in scientific knowledge, taking into account technical and economic considerations and bearing in mind the developmental needs of developing countries,
 
-*Acknowledging* that special provision is required to meet the needs of developing countries for these substances, Noting the precautionary measures for controlling emissions of certain chlorofluorocarbons that have already been taken at national and regional levels,
+*Acknowledging* that special provision is required to meet the needs of developing countries, including the provision of additional financial resources and access to relevant technologies, bearing in mind that the magnitude of funds necessary is predictable, and the funds can be expected to make a substantial difference in the world‟s ability to address the scientifically established problem of ozone depletion and its harmful effects,
 
 *Noting* the precautionary measures for controlling emissions of certain chlorofluorocarbons that have already been taken at national and regional levels,
 
