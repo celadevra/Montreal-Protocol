@@ -231,26 +231,53 @@ Parties that have not objected to the annex in accordance with those procedures 
 
 # Article 5: Special situation of developing countries
 
-1\. Any Party that is a developing country and whose annual calculated level of consumption of the controlled substances is less than 0.3 kilograms per capita on the date of the entry into force of the Protocol for it, or any time thereafter within ten years of the date of entry into force of the Protocol shall, in order to meet its basic domestic needs, be entitled to delay its compliance with the control measures set out in paragraphs 1 to 4 of Article 2 by ten years after that specified in those paragraphs.
-However, such Party shall not exceed an annual calculated level of consumption of 0.3 kilograms per capita.
-Any such Party shall be entitled to use either the average of its annual calculated level of consumption for the period of 1995 to 1997 inclusive or a calculated level of consumption of 0.3 kilograms per capita, whichever is the lower, as the basis for its compliance with the control measures.
+1\. Any Party that is a developing country and whose annual calculated level of consumption of the controlled substances in Annex A is less than 0.3 kilograms per capita on the date of the entry into force of the Protocol for it, or any time thereafter until 1 January 1999, shall in order to meet its basic domestic needs, be entitled to delay for ten years its compliance with the control measures set out in Articles 2A to 2E.
 
-2\. The Parties undertake to facilitate access to environmentally safe alternative substances and technology for Parties that are developing countries and assist them to make expeditious use of such alternatives.
+2\. However, any Party operating under paragraph 1 of this Article shall exceed neither an annual calculated level of consumption of the controlled substances in Annex A of 0.3 kilograms per capita nor an annual calculated level of consumption of the controlled substances of Annex B of 0.2 kilograms per capita.
 
-3\. The Parties undertake to facilitate bilaterally or multilaterally the provision of subsidies, aid, credits, guarantees or insurance programmes to Parties that are developing countries for the use of alternative technology and for substitute products.
+3\. When implementing the control measures set out in Articles 2A to 2E, any Party operating under paragraph 1 of this Article shall be entitled to use:
+
+`  `(a) For controlled substances under Annex A, either the average of its annual calculated level of consumption for the period 1995 to 1997 inclusive or a calculated level of consumption of 0.3 kilograms per capita, whichever is the lower, as the basis for determining its compliance with the control measures;
+
+`  `(b) For controlled substances under Annex B, the average of its annual calculated level of consumption for the period 1998 to 2000 inclusive or a calculated level of consumption of 0.2 kilograms per capita, whichever is the lower, as the basis for determining its compliance with the control measures.
+
+4\. If a Party operating under paragraph 1 of this Article, at any time before the control measures obligations in Articles 2A to 2E become applicable to it, finds itself unable to obtain an adequate supply of controlled substances, it may notify this to the Secretariat.
+The Secretariat shall forthwith transmit a copy of such notification to the Parties, which shall consider the matter at their next Meeting, and decide upon appropriate action to be taken.
+
+5\. Developing the capacity to fulfil the obligations of the Parties operating under paragraph 1 of this Article to comply with the control measures set out in Articles 2A to 2E and their implementation by those same Parties will depend upon the effective implementation of the financial co-operation as provided by Article 10 and transfer of technology as provided by Article 10A.
+
+6\. Any Party operating under paragraph 1 of this Article may, at any time, notify the Secretariat in writing that, having taken all practicable steps it is unable to implement any or all of the obligations laid down in Articles 2A to 2E due to the inadequate implementation of Articles 10 and 10A.
+The Secretariat shall forthwith transmit a copy of the notification to the Parties, which shall consider the matter at their next Meeting, giving due recognition to paragraph 5 of this Article and shall decide upon appropriate action to be taken.
+
+7\. During the period between notification and the Meeting of the Parties at which the appropriate action referred to in paragraph 6 above is to be decided, or for a further period if the Meeting of the Parties so decides, the non-compliance procedures referred to in Article 8 shall not be invoked against the notifying Party.
+
+8\. A Meeting of the Parties shall review, not later than 1995, the situation of the Parties operating under paragraph 1 of this Article, including the effective implementation of financial co-operation and transfer of technology to them, and adopt such revisions that may be deemed necessary regarding the schedule of control measures applicable to those Parties.
+
+9\. Decisions of the Parties referred to in paragraphs 4, 6 and 7 of this Article shall be taken according to the same procedure applied to decision-making under Article 10.
 
 # Article 6: Assessment and review of control measures
 
-Beginning in 1990, and at least every four years thereafter, the Parties shall assess the control measures provided for in Article 2 on the basis of available scientific, environmental, technical and economic information.
+Beginning in 1990, and at least every four years thereafter, the Parties shall assess the control measures provided for in Article 2 and Articles 2A to 2E, and the situation regarding production, imports and exports of the transitional substances in Group I of Annex C on the basis of available scientific, environmental, technical and economic information.
 At least one year before each assessment, the Parties shall convene appropriate panels of experts qualified in the fields mentioned and determine the composition and terms of reference of any such panels.
 Within one year of being convened, the panels will report their conclusions, through the Secretariat, to the Parties.
 
 # Article 7: Reporting of data
 
-1\. Each Party shall provide to the Secretariat, within three months of becoming a Party, statistical data on its production, imports and exports of each of the controlled substances for the year 1986, or the best possible estimates of such data where actual data are not available.
+1\. Each Party shall provide to the Secretariat, within three months of becoming a Party, statistical data on its production, imports and exports of each of the controlled substances in Annex A for the year 1986, or the best possible estimates of such data where actual data are not available.
 
-2\. Each Party shall provide statistical data to the secretariat on its annual production (with separate data on amounts destroyed by technologies to be approved by the Parties), imports, and exports to Parties and non-Parties, respectively, of such substances for the year during which it becomes a Party and for each year thereafter.
-It shall forward the data no later than nine months after the end of the year to which the data relate.
+2\. Each Party shall provide to the Secretariat statistical data on its production, imports and exports of each of the controlled substances in Annex B and each of the transitional substances in Group I of Annex C, for the year 1989, or the best possible estimates of such data where actual data are not available, not later than three months after the date when the provisions set out in the Protocol with regard to the substances in Annex B enter into force for that Party.
+
+3\. Each Party shall provide statistical data to the Secretariat on its annual production (as defined in paragraph 5 of Article 1), and, separately,
+
+– amounts used for feedstocks,
+
+– amounts destroyed by technologies approved by the Parties,
+
+– imports and exports to Parties and non-Parties respectively,
+
+of each of the controlled substances listed in Annexes A and B as well as of the transitional substances in Group I of Annex C, for the year during which provisions concerning the substances in Annex B entered into force for that Party and for each year thereafter. Data shall be forwarded not later than nine months after the end of the year to which the data relate.
+
+4\. For Parties operating under the provisions of paragraph 8 (a) of Article 2, the requirements in paragraphs 1, 2 and 3 of this Article in respect of statistical data on imports and exports shall be satisfied if the regional economic integration organization concerned provides data on imports and exports between the organization and States that are not members of that organization.
 
 # Article 8: Non-compliance
 
