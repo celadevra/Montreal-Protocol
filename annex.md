@@ -132,6 +132,11 @@ The upper value is the estimate of the ODP of the isomer with the highest ODP, a
 
 \** Identifies the most commercially viable substances with ODP values listed against them to be used for the purposes of the Protocol.
 
+|Group|Substance|Number of isomers|Ozone-Depleting Potential|
+|:----|:--------|----------------:|------------------------:|
+|*Group III*| | | |
+|CH~2~BrCl|bromochloromethane|1|0.12|
+
 # Annex D:* A list of products** containing controlled substances specified in Annex A
 
 |Products |Customs code number|
