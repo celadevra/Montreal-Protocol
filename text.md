@@ -287,7 +287,7 @@ The Parties, at their first meeting, shall consider and approve procedures and i
 
 1\. The Parties shall co-operate, consistent with their national laws, regulations and practices and taking into account in particular the needs of developing countries, in promoting, directly or through competent international bodies, research, development and exchange of information on:
 
-`  `(a) best technologies for improving the containment, recovery, recycling, or destruction of controlled substances or otherwise reducing their emissions;
+`  `(a) Best technologies for improving the containment, recovery, recycling, or destruction of controlled and transitional substances or otherwise reducing their emissions;
 
 `  `(b) possible alternatives to controlled substances, to products containing such substances, and to products manufactured with them; and
 
@@ -299,13 +299,61 @@ The Parties, at their first meeting, shall consider and approve procedures and i
 
 # Article 10: Technical assistance
 
-1\. The Parties shall in the context of the provisions of Article 4 of the Convention, and taking into account in particular the needs of developing countries, co-operate in promoting technical assistance to facilitate participation in and implementation of this Protocol.
+1\. The Parties shall establish a mechanism for the purposes of providing financial and technical co- operation, including the transfer of technologies, to Parties operating under paragraph 1 of Article 5 of this Protocol to enable their compliance with the control measures set out in Articles 2A to 2E of the Protocol.
+The mechanism, contributions to which shall be additional to other financial transfers to Parties operating under that paragraph, shall meet all agreed incremental costs of such Parties in order to enable their compliance with the control measures of the Protocol.
+An indicative list of the categories of incremental costs shall be decided by the meeting of the Parties.
 
-2\. Any Party or Signatory to this Protocol may submit a request to the Secretariat for technical assistance for the purposes of implementing or participating in the Protocol.
+2\. The mechanism established under paragraph 1 shall include a Multilateral Fund.
+It may also include other means of multilateral, regional and bilateral co-operation.
 
-3\. The Parties, at their first meeting, shall begin deliberations on the means of fulfilling the obligations set out in Article 9, and paragraphs 1 and 2 of this Article, including the preparation of workplans.
-Such workplans shall pay special attention to the needs and circumstances of the developing countries.
-States and regional economic integration organizations not party to the Protocol should be encouraged to participate in activities specified in such workplans.
+3\. The Multilateral Fund shall:
+
+`  `(a) Meet, on a grant or concessional basis as appropriate, and according to criteria to be decided upon by the Parties, the agreed incremental costs;
+
+`  `(b) Finance clearing-house functions to:
+
+`  ` `  `(i) Assist Parties operating under paragraph 1 of Article 5, through country specific studies and other technical co-operation, to identify their needs for co-operation;
+
+`  ` `  `(ii) Facilitate technical co-operation to meet these identified needs;
+
+`  ` `  `(iii) Distribute, as provided for in Article 9, information and relevant materials, and hold workshops, training sessions, and other related activities, for the benefit of Parties that are developing countries; and
+
+`  ` `  `(iv) Facilitate and monitor other multilateral, regional and bilateral co-operation available to Parties that are developing countries;
+
+`  `(c) Finance the secretarial services of the Multilateral Fund and related support costs.
+
+4\. The Multilateral Fund shall operate under the authority of the Parties who shall decide on its overall policies.
+
+5\. The Parties shall establish an Executive Committee to develop and monitor the implementation of specific operational policies, guidelines and administrative arrangements, including the disbursement of resources, for the purpose of achieving the objectives of the Multilateral Fund.
+The Executive Committee shall discharge its tasks and responsibilities, specified in its terms of reference as agreed by the Parties, with the co-operation and assistance of the International Bank for Reconstruction and Development (World Bank), the United Nations Environment Programme, the United Nations Development Programme or other appropriate agencies depending on their respective areas of expertise.
+The members of the Executive Committee, which shall be selected on the basis of a balanced representation of the Parties operating under paragraph 1 of Article 5 and of the Parties not so operating, shall be endorsed by the Parties.
+
+6\. The Multilateral Fund shall be financed by contributions from Parties not operating under paragraph 1 of Article 5 in convertible currency or, in certain circumstances, in kind and/or in national currency, on the basis of the United Nations scale of assessments.
+Contributions by other Parties shall be encouraged.
+Bilateral and, in particular cases agreed by a decision of the Parties, regional co-operation may, up to a percentage and consistent with any criteria to be specified by decision of the Parties, be considered as a contribution to the Multilateral Fund, provided that such co-operation, as a minimum:
+
+`  `(a) Strictly relates to compliance with the provisions of this Protocol;
+
+`  `(b) Provides additional resources; and
+
+`  `(c) Meets agreed incremental costs.
+
+7\. The Parties shall decide upon the programme budget of the Multilateral Fund for each fiscal period and upon the percentage of contributions of the individual Parties thereto.
+
+8\. Resources under the Multilateral Fund shall be disbursed with the concurrence of the beneficiary Party.
+
+9\. Decisions by the Parties under this Article shall be taken by consensus whenever possible.
+If all efforts at consensus have been exhausted and no agreement reached, decisions shall be adopted by a two-thirds majority vote of the Parties present and voting, representing a majority of the Parties operating under paragraph 1 of Article 5 present and voting and a majority of the Parties not so operating present and voting.
+
+10\. The financial mechanism set out in this Article is without prejudice to any future arrangements that may be developed with respect to other environmental issues.
+
+## Article 10A: Transfer of technology
+
+Each Party shall take every practicable step, consistent with the programmes supported by the financial mechanism, to ensure:
+
+(a) That the best available, environmentally safe substitutes and related technologies are expeditiously transferred to Parties operating under paragraph 1 of Article 5; and
+
+(b) That the transfers referred to in subparagraph (a) occur under fair and most favourable conditions.
 
 # Article 11: Meetings of the parties
 
