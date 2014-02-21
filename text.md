@@ -36,7 +36,7 @@ For the purposes of this Protocol:
 
 3\. “Secretariat” means the Secretariat of the Convention.
 
-4\. “Controlled substance” means a substance in Annex A or in Annex B, Annex C or Annex E to this Protocol, whether existing alone or in a mixture.
+4\. “Controlled substance” means a substance in Annex A, Annex B, Annex C or Annex E to this Protocol, whether existing alone or in a mixture.
 It includes the isomers of any such substance, except as specified in the relevant Annex, but excludes any controlled substance or mixture which is in a manufactured product other than a container used for the transportation or storage of that substance.
 
 5\. “Production” means the amount of controlled substances produced, minus the amount destroyed by technologies to be approved by the Parties and minus the amount entirely used as feedstock in the manufacture of other chemicals.
@@ -76,7 +76,7 @@ Such transfer of consumption shall be notified to the Secretariat by each of the
 
 9\. (a) Based on the assessments made pursuant to Article 6, the Parties may decide whether:
 
-`  ` `  `(i) Adjustments to the ozone depleting potentials specified in Annex A and/or Annex B, Annex C and/or Annex E should be made and, if so, what the adjustments should be; and
+`  ` `  `(i) Adjustments to the ozone depleting potentials specified in Annex A, Annex B, Annex C and/or Annex E should be made and, if so, what the adjustments should be; and
 
 `  ` `  `(ii) Further adjustments and reductions of production or consumption of the controlled substances should be undertaken and, if so, what the scope, amount and timing of any such adjustments and reductions should be;
 
@@ -205,11 +205,11 @@ The calculated levels of consumption and production under this Article shall not
 
 # Article 3: Calculation of control levels
 
-For the purposes of Articles 2, 2A to 2E and 5, each Party shall, for each group of substances in Annex A or Annex B, determine its calculated levels of:
+For the purposes of Articles 2, 2A to 2H and 5, each Party shall, for each group of substances in Annex A or Annex B, determine its calculated levels of:
 
 ` `(a) Production by:
 
-`  ` `  `(i) multiplying its annual production of each controlled substance by the ozone depleting potential specified in respect of it in Annex A or Annex B; and
+`  ` `  `(i) multiplying its annual production of each controlled substance by the ozone depleting potential specified in respect of it in Annex A, Annex B, Annex C or Annex E; and
 
 `  ` `  `(ii) adding together, for each such Group, the resulting figures;
 
@@ -224,14 +224,21 @@ However, beginning on 1 January 1993, any export of controlled substances to non
 
 1 *bis* Within one year of the date of the entry into force of this paragraph, each Party shall ban the import of the controlled substances in Annex B from any State not party to this Protocol.
 
+1 *ter* Within one year of the date of entry into force of this paragraph, each Party shall ban the import of any controlled substances in Group II of Annex C from any State not party to this Protocol.
+
 2\. As of 1 January 1993, each Party shall ban the export of any controlled substances in Annex A to any State not party to this Protocol.
 
 2 *bis* Commencing one year after the date of entry into force of this paragraph, each Party shall ban the export of any controlled substances in Annex B to any State not party to this Protocol.
+
+2 *ter* Commencing one year after the date of entry into force of this paragraph, each Party shall ban the export of any controlled substances in Group II of Annex C to any State not party to this Protocol.
 
 3\. By 1 January 1992, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of products containing controlled substances in Annex A.
 Parties that have not objected to the annex in accordance with those procedures shall ban, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
 
 3 *bis* Within three years of the date of the entry into force of this paragraph, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of products containing controlled substances in Annex B.
+Parties that have not objected to the annex in accordance with those procedures shall ban, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
+
+3 *ter.* Within three years of the date of entry into force of this paragraph, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of products containing controlled substances in Group II of Annex C.
 Parties that have not objected to the annex in accordance with those procedures shall ban, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
 
 4\. By 1 January 1994, the Parties shall determine the feasibility of banning or restricting, from States not party to this Protocol, the import of products produced with, but not containing, controlled substances in Annex A.
@@ -242,19 +249,33 @@ Parties that have not objected to the annex in accordance with those procedures 
 If determined feasible, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of such products.
 Parties that have not objected to the annex in accordance with those procedures shall ban or restrict, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
 
-5\. Each Party undertakes to the fullest practicable extent to discourage the export to any State not party to this Protocol of technology for producing and for utilizing controlled substances.
+4 *ter* Within five years of the date of entry into force of this paragraph, the Parties shall determine the feasibility of banning or restricting, from States not party to this Protocol, the import of products produced with, but not containing, controlled substances in Group II of Annex C.
+If determined feasible, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of such products.
+Parties that have not objected to the annex in accordance with those procedures shall ban or restrict, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
 
-6\. Each Party shall refrain from providing new subsidies, aid, credits, guarantees or insurance programmes for the export to States not party to this Protocol of products, equipment, plants or technology that would facilitate the production of controlled substances.
+5\. Each Party undertakes to the fullest practicable extent to discourage the export to any State not party to this Protocol of technology for producing and for utilizing controlled substances in Annexes A and B and Group II of Annex C.
 
-7\. Paragraphs 5 and 6 shall not apply to products, equipment, plants or technology that improve the containment, recovery, recycling or destruction of controlled substances, promote the development of alternative substances, or otherwise contribute to the reduction of emissions of controlled substances.
+6\. Each Party shall refrain from providing new subsidies, aid, credits, guarantees or insurance programmes for the export to States not party to this Protocol of products, equipment, plants or technology that would facilitate the production of controlled substances in Annexes A and B and Group II of Annex C.
 
-8\. Notwithstanding the provisions of this Article, imports referred to in paragraphs 1, 1 bis, 3, 3 bis, 4 and 4 bis, and exports referred to in paragraphs 2 and 2 bis, may be permitted from, or to, any State not party to this Protocol, if that State is determined by a meeting of the Parties to be in full compliance with Article 2, Articles 2A to 2E, and this Article and have submitted data to that effect as specified in Article 7.
+7\. Paragraphs 5 and 6 shall not apply to products, equipment, plants or technology that improve the containment, recovery, recycling or destruction of controlled substances in Annexes A and B and Group II of Annex C, promote the development of alternative substances, or otherwise contribute to the reduction of emissions of controlled substances in Annexes A and B and Group II of Annex C.
+
+8\. Notwithstanding the provisions of this Article, imports and exports referred to in paragraphs 1 to 4 *ter* of this Article, may be permitted from, or to, any State not party to this Protocol, if that State is determined by a meeting of the Parties to be in full compliance with Article 2, Articles 2A to 2E, Article 2G, and this Article and have submitted data to that effect as specified in Article 7.
 
 9\. For the purposes of this Article, the term “State not party to this Protocol” shall include, with respect to a particular controlled substance, a State or regional economic integration organization that has not agreed to be bound by the control measures in effect for that substance.
 
+10\. By 1 January 1996, the Parties shall consider whether to amend this Protocol in order to extend the measures in this Article to trade in controlled substances in Group I of Annex C and in Annex E with States not party to the Protocol.
+
 # Article 5: Special situation of developing countries
 
-1\. Any Party that is a developing country and whose annual calculated level of consumption of the controlled substances in Annex A is less than 0.3 kilograms per capita on the date of the entry into force of the Protocol for it, or any time thereafter until 1 January 1999, shall in order to meet its basic domestic needs, be entitled to delay for ten years its compliance with the control measures set out in Articles 2A to 2E.
+1\. Any Party that is a developing country and whose annual calculated level of consumption of the controlled substances in Annex A is less than 0.3 kilograms per capita on the date of the entry into force of the Protocol for it, or any time thereafter until 1 January 1999, shall in order to meet its basic domestic needs, be entitled to delay for ten years its compliance with the control measures set out in Articles 2A to 2E, provided that any further amendments to the adjustments or Amendments adopted at the Second Meeting of the Parties in London, 29 June 1990, shall apply to the Parties operating under this paragraph after the review provided for in paragraph 8 of this Article has taken place and shall be based on the conclusions of that review.
+
+1 *bis* The Parties shall, taking into account the review referred to in paragraph 8 of this Article, the assessments made pursuant to Article 6 and any other relevant information, decide by 1 January 1996, through the procedure set forth in paragraph 9 of Article 2:
+
+(a) With respect to paragraphs 1 to 6 of Article 2F, what base year, initial levels, control schedules and phase-out date for consumption of the controlled substances in Group I of Annex C will apply to Parties operating under paragraph 1 of this Article;
+
+(b) With respect to Article 2G, what phase-out date for production and consumption of the controlled substances in Group II of Annex C will apply to Parties operating under paragraph 1 of this Article; and
+
+(c) With respect to Article 2H, what base year, initial levels and control schedules for consumption and production of the controlled substance in Annex E will apply to Parties operating under paragraph 1 of this Article.
 
 2\. However, any Party operating under paragraph 1 of this Article shall exceed neither an annual calculated level of consumption of the controlled substances in Annex A of 0.3 kilograms per capita nor an annual calculated level of consumption of the controlled substances of Annex B of 0.2 kilograms per capita.
 
@@ -264,12 +285,12 @@ Parties that have not objected to the annex in accordance with those procedures 
 
 `  `(b) For controlled substances under Annex B, the average of its annual calculated level of consumption for the period 1998 to 2000 inclusive or a calculated level of consumption of 0.2 kilograms per capita, whichever is the lower, as the basis for determining its compliance with the control measures.
 
-4\. If a Party operating under paragraph 1 of this Article, at any time before the control measures obligations in Articles 2A to 2E become applicable to it, finds itself unable to obtain an adequate supply of controlled substances, it may notify this to the Secretariat.
+4\. If a Party operating under paragraph 1 of this Article, at any time before the control measures obligations in Articles 2A to 2H become applicable to it, finds itself unable to obtain an adequate supply of controlled substances, it may notify this to the Secretariat.
 The Secretariat shall forthwith transmit a copy of such notification to the Parties, which shall consider the matter at their next Meeting, and decide upon appropriate action to be taken.
 
-5\. Developing the capacity to fulfil the obligations of the Parties operating under paragraph 1 of this Article to comply with the control measures set out in Articles 2A to 2E and their implementation by those same Parties will depend upon the effective implementation of the financial co-operation as provided by Article 10 and transfer of technology as provided by Article 10A.
+5\. Developing the capacity to fulfil the obligations of the Parties operating under paragraph 1 of this Article to comply with the control measures set out in Articles 2A to 2E, and any control measures in Articles 2F to 2H that are decided pursuant to paragraph 1 *bis* of this Article, and their implementation by those same Parties will depend upon the effective implementation of the financial co-operation as provided by Article 10 and transfer of technology as provided by Article 10A.
 
-6\. Any Party operating under paragraph 1 of this Article may, at any time, notify the Secretariat in writing that, having taken all practicable steps it is unable to implement any or all of the obligations laid down in Articles 2A to 2E due to the inadequate implementation of Articles 10 and 10A.
+6\. Any Party operating under paragraph 1 of this Article may, at any time, notify the Secretariat in writing that, having taken all practicable steps it is unable to implement any or all of the obligations laid down in Articles 2A to 2E, or any or all obligations in Articles 2F to 2H that are decided pursuant to paragraph 1 bis of this Article, due to the inadequate implementation of Articles 10 and 10A.
 The Secretariat shall forthwith transmit a copy of the notification to the Parties, which shall consider the matter at their next Meeting, giving due recognition to paragraph 5 of this Article and shall decide upon appropriate action to be taken.
 
 7\. During the period between notification and the Meeting of the Parties at which the appropriate action referred to in paragraph 6 above is to be decided, or for a further period if the Meeting of the Parties so decides, the non-compliance procedures referred to in Article 8 shall not be invoked against the notifying Party.
