@@ -36,7 +36,7 @@ For the purposes of this Protocol:
 
 3\. “Secretariat” means the Secretariat of the Convention.
 
-4\. “Controlled substance” means a substance in Annex A or in Annex B to this Protocol, whether existing alone or in a mixture.
+4\. “Controlled substance” means a substance in Annex A or in Annex B, Annex C or Annex E to this Protocol, whether existing alone or in a mixture.
 It includes the isomers of any such substance, except as specified in the relevant Annex, but excludes any controlled substance or mixture which is in a manufactured product other than a container used for the transportation or storage of that substance.
 
 5\. “Production” means the amount of controlled substances produced, minus the amount destroyed by technologies to be approved by the Parties and minus the amount entirely used as feedstock in the manufacture of other chemicals.
@@ -48,9 +48,6 @@ The amount recycled and reused is not to be considered as “production”.
 
 8\. “Industrial rationalization” means the transfer of all or a portion of the calculated level of production of one Party to another, for the purpose of achieving economic efficiencies or responding to anticipated shortfalls in supply as a result of plant closures.
 
-9\. “Transitional substance” means a substance in Annex C to this Protocol, whether existing alone or in a mixture.
-It includes the isomers of any such substance, except as may be specified in Annex C, but excludes any transitional substance or mixture which is in a manufactured product other than a container used for the transportation or storage of that substance.
-
 # Article 2: Control Measures
 
 1\. *Incorporated in Article 2A.*
@@ -61,14 +58,17 @@ It includes the isomers of any such substance, except as may be specified in Ann
 
 4\. *Replaced by Article 2A.*
 
-5\. Any Party may, for any one or more control periods, transfer to another Party any portion of its calculated level of production set out in Articles 2A to 2E, provided that the total combined calculated levels of production of the Parties concerned for any group of controlled substances do not exceed the production limits set out in those Articles for that group.
+5\. Any Party may, for any one or more control periods, transfer to another Party any portion of its calculated level of production set out in Articles 2A to 2E and Article 2H, provided that the total combined calculated levels of production of the Parties concerned for any group of controlled substances do not exceed the production limits set out in those Articles for that group.
 Such transfer of production shall be notified to the Secretariat by each of the Parties concerned, stating the terms of such transfer and the period for which it is to apply.
+
+5 *bis* Any Party not operating under paragraph 1 of Article 5 may, for one or more control periods, transfer to another such Party any portion of its calculated level of consumption set out in Article 2F, provided that the calculated level of consumption of controlled substances in Group I of Annex A of the Party transferring the portion of its calculated level of consumption did not exceed 0.25 kilograms per capita in 1989 and that the total combined calculated levels of consumption of the Parties concerned do not exceed the consumption limits set out in Article 2F.
+Such transfer of consumption shall be notified to the Secretariat by each of the Parties concerned, stating the terms of such transfer and the period for which it is to apply.
 
 6\. Any Party not operating under Article 5, that has facilities for the production of Annex A or Annex B controlled substances under construction, or contracted for, prior to 16 September 1987, and provided for in national legislation prior to 1 January 1987, may add the production from such facilities to its 1986 production of such substances for the purposes of determining its calculated level of production for 1986, provided that such facilities are completed by 31 December 1990 and that such production does not raise that Party‟s annual calculated level of consumption of the controlled substances above 0.5 kilograms per capita.
 
 7\. Any transfer of production pursuant to paragraph 5 or any addition of production pursuant to paragraph 6 shall be notified to the Secretariat, no later than the time of the transfer or addition.
 
-8\. (a) Any Parties which are Member States of a regional economic integration organization as defined in Article 1 (6) of the Convention may agree that they shall jointly fulfil their obligations respecting consumption under this Article and Articles 2A to 2E provided that their total combined calculated level of consumption does not exceed the levels required by this Article and Articles 2A to 2E.
+8\. (a) Any Parties which are Member States of a regional economic integration organization as defined in Article 1 (6) of the Convention may agree that they shall jointly fulfil their obligations respecting consumption under this Article and Articles 2A to 2H provided that their total combined calculated level of consumption does not exceed the levels required by this Article and Articles 2A to 2H.
 
 `   `(b) The Parties to any such agreement shall inform the Secretariat of the terms of the agreement before the date of the reduction in consumption with which the agreement is concerned.
 
@@ -76,7 +76,7 @@ Such transfer of production shall be notified to the Secretariat by each of the 
 
 9\. (a) Based on the assessments made pursuant to Article 6, the Parties may decide whether:
 
-`  ` `  `(i) Adjustments to the ozone depleting potentials specified in Annex A and/or Annex B should be made and, if so, what the adjustments should be; and
+`  ` `  `(i) Adjustments to the ozone depleting potentials specified in Annex A and/or Annex B, Annex C and/or Annex E should be made and, if so, what the adjustments should be; and
 
 `  ` `  `(ii) Further adjustments and reductions of production or consumption of the controlled substances should be undertaken and, if so, what the scope, amount and timing of any such adjustments and reductions should be;
 
@@ -93,7 +93,7 @@ If all efforts at consensus have been exhausted, and no agreement reached, such 
 
 `  ` `  `(ii) the mechanism, scope and timing of the control measures that should apply to those substances;
 
-11\. Notwithstanding the provisions contained in this Article and Articles 2A to 2E, Parties may take more stringent measures than those required by this Article and Articles 2A to 2E.
+11\. Notwithstanding the provisions contained in this Article and Articles 2A to 2H, Parties may take more stringent measures than those required by this Article and Articles 2A to 2H.
 
 ## Article 2A: CFCs
 
@@ -163,6 +163,45 @@ However, in order to satisfy the basic domestic needs of the Parties operating u
 Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed zero.
 However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production for 1989.
 This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
+
+## Article 2F: Hydrochlorofluorocarbons
+
+1\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1996, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, the sum of:
+
+`  `(a) Three point one per cent of its calculated level of consumption in 1989 of the controlled substances in Group I of Annex A; and
+
+`  `(b) Its calculated level of consumption in 1989 of the controlled substances in Group I of Annex C.
+
+2\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2004, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, sixty-five per cent of the sum referred to in paragraph 1 of this Article.
+
+3\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2010, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, thirty-five per cent of the sum referred to in paragraph 1 of this Article.
+
+4\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2015, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, ten per cent of the sum referred to in paragraph 1 of this Article.
+
+5\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2020, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, zero point five per cent of the sum referred to in paragraph 1 of this Article.
+
+6\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2030, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed zero.
+
+7\. As of 1 January 1996, each Party shall endeavour to ensure that:
+
+`  `(a) The use of controlled substances in Group I of Annex C is limited to those applications where other more environmentally suitable alternative substances or technologies are not available;
+
+`  `(b) The use of controlled substances in Group I of Annex C is not outside the areas of application currently met by controlled substances in Annexes A, B and C, except in rare cases for the protection of human life or human health; and
+
+`  `(c) Controlled substances in Group I of Annex C are selected for use in a manner that minimizes ozone depletion, in addition to meeting other environmental, safety and economic considerations.
+
+## Article 2G: Hydrobromofluorocarbons
+
+Each Party shall ensure that for the twelve-month period commencing on 1 January 1996, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group II of Annex C does not exceed zero.
+Each Party producing the substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed zero.
+This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
+
+## Article 2H: Methyl Bromide
+
+Each Party shall ensure that for the twelve-month period commencing on 1 January 1995, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, its calculated level of consumption in 1991.
+Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, its calculated level of production in 1991.
+However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1991.
+The calculated levels of consumption and production under this Article shall not include the amounts used by the Party for quarantine and pre-shipment applications.
 
 # Article 3: Calculation of control levels
 
