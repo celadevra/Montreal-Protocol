@@ -275,3 +275,25 @@ In the event that these conditions have not been fulfilled by that date, the Pro
 2\. For the purposes of paragraph 1, any such instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by member States of such organization.
 
 3\. After the entry into force of this Protocol, any State or regional economic integration organization shall become a Party to it on the ninetieth day following the date of deposit of its instrument of ratification, acceptance, approval or accession.
+
+# Article 17: Parties joining after entry into force
+
+Subject to Article 5, any State or regional economic integration organization which becomes a Party to this Protocol after the date of its entry into force, shall fulfil forthwith the sum of the obligations under Article 2, as well as under Article 4, that apply at that date to the States and regional economic integration organizations that became Parties on the date the Protocol entered into force.
+
+# Article 18: Reservations
+
+No reservations may be made to this Protocol.
+
+# Article 19: Withdrawal
+
+For the purposes of this Protocol, the provisions of Article 19 of the Convention relating to withdrawal shall apply, except with respect to Parties referred to in paragraph 1 of Article 5.
+Any such Party may withdraw from this Protocol by giving written notification to the Depositary at any time after four years of assuming the obligations specified in paragraphs 1 to 4 of Article 2.
+Any such withdrawal shall take effect upon expiry of one year after the date of its receipt by the Depositary, or on such later date as may be specified in the notification of the withdrawal.
+
+# Article 20: Authentic texts
+
+The original of this Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations.
+
+IN WITNESS WHEREOF THE UNDERSIGNED, BEING DULY AUTHORIZED TO THAT EFFECT, HAVE SIGNED THIS PROTOCOL.
+
+DONE AT MONTREAL THIS SIXTEENTH DAY OF SEPTEMBER, ONE THOUSAND NINE HUNDRED AND EIGHTY SEVEN.
