@@ -133,3 +133,17 @@ Parties that have not objected to it in accordance with those procedures shall b
 5\. Each Party shall discourage the export, to any State not party to this Protocol, of technology for producing and for utilizing controlled substances.
 
 6\. Each Party shall refrain from providing new subsidies, aid, credits, guarantees or insurance programmes for the export to States not party to this Protocol of products, equipment, plants or technology that would facilitate the production of controlled substances.
+
+7\. Paragraphs 5 and 6 shall not apply to products, equipment, plants or technology that improve the containment, recovery, recycling or destruction of controlled substances, promote the development of alternative substances, or otherwise contribute to the reduction of emissions of controlled substances.
+
+8\. Notwithstanding the provisions of this Article, imports referred to in paragraphs 1, 3 and 4 may be permitted from any State not party to this Protocol, if that State is determined, by a meeting of the Parties, to be in full compliance with Article 2 and this Article, and has submitted data to that effect as specified in Article 7.
+
+# Article 5: Special situation of developing countries
+
+1\. Any Party that is a developing country and whose annual calculated level of consumption of the controlled substances is less than 0.3 kilograms per capita on the date of the entry into force of the Protocol for it, or any time thereafter within ten years of the date of entry into force of the Protocol shall, in order to meet its basic domestic needs, be entitled to delay its compliance with the control measures set out in paragraphs 1 to 4 of Article 2 by ten years after that specified in those paragraphs.
+However, such Party shall not exceed an annual calculated level of consumption of 0.3 kilograms per capita.
+Any such Party shall be entitled to use either the average of its annual calculated level of consumption for the period of 1995 to 1997 inclusive or a calculated level of consumption of 0.3 kilograms per capita, whichever is the lower, as the basis for its compliance with the control measures.
+
+2\. The Parties undertake to facilitate access to environmentally safe alternative substances and technology for Parties that are developing countries and assist them to make expeditious use of such alternatives.
+
+3\. The Parties undertake to facilitate bilaterally or multilaterally the provision of subsidies, aid, credits, guarantees or insurance programmes to Parties that are developing countries for the use of alternative technology and for substitute products.
