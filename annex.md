@@ -132,6 +132,29 @@ The upper value is the estimate of the ODP of the isomer with the highest ODP, a
 
 \** Identifies the most commercially viable substances with ODP values listed against them to be used for the purposes of the Protocol.
 
+# Annex D:* A list of products** containing controlled substances specified in Annex A
+
+|Products |Customs code number|
+|:--------|------------------:|
+|1. Automobile and truck air conditioning units (whether incorporated in vehicles or not)|..................|
+|2. Domestic and commercial refrigeration and air conditioning/heat pump equipment\***|..................|
+|e.g. Refrigerators|..................|
+|Freezers|..................|
+|Dehumidifiers|..................|
+|Water coolers|..................|
+|Ice machines|..................|
+|Air conditioning and heat pump units|..................|
+|3. Aerosol products, except medical aerosols|..................|
+|4. Portable fire extinguisher|..................|
+|5. Insulation boards, panels and pipe covers|..................|
+|6. Pre-polymers|..................|
+
+\* This Annex was adopted by the Third Meeting of the Parties in Nairobi, 21 June 1991 as required by paragraph 3 of Article 4 of the Protocol.
+
+\** Though not when transported in consignments of personal or household effects or in similar non- commercial situations normally exempted from customs attention.
+
+\*** When containing controlled substances in Annex A as a refrigerant and/or in insulating material of the product.
+
 # Annex E: Controlled substance
 
 |Group|Substance|Ozone-Depleting Potential|
