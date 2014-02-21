@@ -101,3 +101,35 @@ If all efforts at consensus have been exhausted, and no agreement reached, such 
 `  `(b) Any such decisions shall become effective, provided that it has been accepted by a two-thirds majority vote of the Parties present and voting.
 
 11\. Notwithstanding the provisions contained in this Article, Parties may take more stringent measures than those required by this Article.
+
+# Article 3: Calculation of control levels
+
+For the purposes of Articles 2 and 5, each Party shall, for each group of substances in Annex A, determine its calculated levels of:
+
+` `(a) Production by:
+
+`  ` `  `(i) multiplying its annual production of each controlled substance by the ozone depleting potential specified in respect of it in Annex A; and
+
+`  ` `  `(ii) adding together, for each such Group, the resulting figures;
+
+`  `(b) Imports and exports, respectively, by following, mutatis mutandis, the procedure set out in subparagraph (a); and
+
+`  `(c) Consumption by adding together its calculated levels of production and imports and subtracting its calculated level of exports as determined in accordance with subparagraphs (a) and (b).
+However, beginning on 1 January 1993, any export of controlled substances to non-Parties shall not be subtracted in calculating the consumption level of the exporting Party.
+
+# Article 4: Control of trade with non-Parties
+
+1\. Within one year of the entry into force of this Protocol, each Party shall ban the import of controlled substances from any State not party to this Protocol.
+
+2\. Beginning on 1 January 1993, no Party operating under paragraph 1 of Article 5 may export any controlled substance to any State not party to this Protocol.
+
+3\. Within three years of the date of entry into force of this Protocol, the Parties shall, following the procedure in Article 10 of the Convention, elaborate in an annex a list of products containing controlled substances.
+Parties that have not objected to the annex in accordance with those procedures shall ban, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
+
+4\. Within five years of the entry into force of this Protocol, the Parties shall determine the feasibility of banning or restricting, from States not party to this Protocol, the import of products produced with, but not containing, controlled substances.
+If determined feasible, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of such products.
+Parties that have not objected to it in accordance with those procedures shall ban or restrict, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
+
+5\. Each Party shall discourage the export, to any State not party to this Protocol, of technology for producing and for utilizing controlled substances.
+
+6\. Each Party shall refrain from providing new subsidies, aid, credits, guarantees or insurance programmes for the export to States not party to this Protocol of products, equipment, plants or technology that would facilitate the production of controlled substances.
