@@ -204,20 +204,24 @@ This paragraph will apply save to the extent that the Parties decide to permit t
 Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, its calculated level of production in 1991.
 However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1991.
 
-2\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2001, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, seventy-five per cent of its calculated level of consumption in 1991.
+2\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1999, and in the twelve-month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, seventy-five per cent of its calculated level of consumption in 1991.
 Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, seventy-five per cent of its calculated level of production in 1991.
 However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1991.
 
-3\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2005, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, fifty per cent of its calculated level of consumption in 1991.
+3\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2001, and in the twelve-month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, fifty per cent of its calculated level of consumption in 1991.
 Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, fifty per cent of its calculated level of production in 1991.
 However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1991.
 
-4\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2010, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed zero.
+4\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2003, and in the twelve-month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed, annually, thirty per cent of its calculated level of consumption in 1991.
+Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, thirty per cent of its calculated level of production in 1991.
+However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1991.
+
+5\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2005, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed zero.
 Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed zero.
 However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production in 1991.
-This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be critical agricultural uses.
+This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be critical uses.
 
-5\. The calculated levels of consumption and production under this Article shall not include the amounts used by the Party for quarantine and pre-shipment applications.
+6\. The calculated levels of consumption and production under this Article shall not include the amounts used by the Party for quarantine and pre-shipment applications.
 
 # Article 3: Calculation of control levels
 
@@ -297,9 +301,13 @@ Parties that have not objected to the annex in accordance with those procedures 
 
 3\. When implementing the control measures set out in Articles 2A to 2E, any Party operating under paragraph 1 of this Article shall be entitled to use:
 
-`  `(a) For controlled substances under Annex A, either the average of its annual calculated level of consumption for the period 1995 to 1997 inclusive or a calculated level of consumption of 0.3 kilograms per capita, whichever is the lower, as the basis for determining its compliance with the control measures;
+`  `(a) For controlled substances under Annex A, either the average of its annual calculated level of consumption for the period 1995 to 1997 inclusive or a calculated level of consumption of 0.3 kilograms per capita, whichever is the lower, as the basis for determining its compliance with the control measures relating to consumption;
 
-`  `(b) For controlled substances under Annex B, the average of its annual calculated level of consumption for the period 1998 to 2000 inclusive or a calculated level of consumption of 0.2 kilograms per capita, whichever is the lower, as the basis for determining its compliance with the control measures.
+`  `(b) For controlled substances under Annex B, the average of its annual calculated level of consumption for the period 1998 to 2000 inclusive or a calculated level of consumption of 0.2 kilograms per capita, whichever is the lower, as the basis for determining its compliance with the control measures relating to consumption.
+
+`  `(c) For controlled substances under Annex A, either the average of its annual calculated level of production for the period 1995 to 1997 inclusive or a calculated level of production of 0.3 kilograms per capita, whichever is the lower, as the basis for determining its compliance with the control measures relating to production.
+
+`  `(d) For controlled substances under Annex B, either the average of its annual calculated level of production for the period 1998 to 2000 inclusive or a calculated level of production of 0.2 kilograms per capita, whichever is the lower, as the basis for determining its compliance with the control measures relating to production.
 
 4\. If a Party operating under paragraph 1 of this Article, at any time before the control measures obligations in Articles 2A to 2H become applicable to it, finds itself unable to obtain an adequate supply of controlled substances, it may notify this to the Secretariat.
 The Secretariat shall forthwith transmit a copy of such notification to the Parties, which shall consider the matter at their next Meeting, and decide upon appropriate action to be taken.
@@ -331,7 +339,12 @@ The Secretariat shall forthwith transmit a copy of the notification to the Parti
 
 `  ` `  `(i) As of 1 January 2002 each Party operating under paragraph 1 of this Article shall comply with the control measures set out in paragraph 1 of Article 2H and, as the basis for its compliance with these control measures, it shall use the average of its annual calculated level of consumption and production, respectively, for the period of 1995 to 1998 inclusive;
 
-`  ` `  `(ii) The calculated levels of consumption and production under this subparagraph shall not include the amounts used by the Party for quarantine and pre-shipment applications.
+`  ` `  `(ii) Each Party operating under paragraph 1 of this Article shall ensure that for the twelve-month period commencing on 1 January 2005, and in each twelve-month period thereafter, its calculated levels of consumption and production of the controlled substance in Annex E do not exceed, annually, eighty per cent of the average of its annual calculated levels of consumption and production, respectively, for the period of 1995 to 1998 inclusive;
+
+`  ` `  `(iii) Each Party operating under paragraph 1 of this Article shall ensure that for the twelve-month period commencing on 1 January 2015 and in each twelve-month period thereafter, its calculated levels of consumption and production of the controlled substance in Annex E do not exceed zero.
+This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be critical uses;
+
+`  ` `  `(iv) The calculated levels of consumption and production under this subparagraph shall not include the amounts used by the Party for quarantine and pre-shipment applications.
 
 9\. Decisions of the Parties referred to in paragraphs 4, 6 and 7 of this Article shall be taken according to the same procedure applied to decision-making under Article 10.
 
