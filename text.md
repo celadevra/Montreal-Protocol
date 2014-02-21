@@ -372,12 +372,12 @@ Parties that have not objected to the annex in accordance with those procedures 
 
 `  `(d) For controlled substances under Annex B, either the average of its annual calculated level of production for the period 1998 to 2000 inclusive or a calculated level of production of 0.2 kilograms per capita, whichever is the lower, as the basis for determining its compliance with the control measures relating to production.
 
-4\. If a Party operating under paragraph 1 of this Article, at any time before the control measures obligations in Articles 2A to 2H become applicable to it, finds itself unable to obtain an adequate supply of controlled substances, it may notify this to the Secretariat.
+4\. If a Party operating under paragraph 1 of this Article, at any time before the control measures obligations in Articles 2A to 2I become applicable to it, finds itself unable to obtain an adequate supply of controlled substances, it may notify this to the Secretariat.
 The Secretariat shall forthwith transmit a copy of such notification to the Parties, which shall consider the matter at their next Meeting, and decide upon appropriate action to be taken.
 
-5\. Developing the capacity to fulfil the obligations of the Parties operating under paragraph 1 of this Article to comply with the control measures set out in Articles 2A to 2E, and any control measures in Articles 2F to 2H that are decided pursuant to paragraph 1 *bis* of this Article, and their implementation by those same Parties will depend upon the effective implementation of the financial co-operation as provided by Article 10 and transfer of technology as provided by Article 10A.
+5\. Developing the capacity to fulfil the obligations of the Parties operating under paragraph 1 of this Article to comply with the control measures set out in Articles 2A to 2E and Article 2I, and any control measures in Articles 2F to 2H that are decided pursuant to paragraph 1 *bis* of this Article, and their implementation by those same Parties will depend upon the effective implementation of the financial co-operation as provided by Article 10 and transfer of technology as provided by Article 10A.
 
-6\. Any Party operating under paragraph 1 of this Article may, at any time, notify the Secretariat in writing that, having taken all practicable steps it is unable to implement any or all of the obligations laid down in Articles 2A to 2E, or any or all obligations in Articles 2F to 2H that are decided pursuant to paragraph 1 bis of this Article, due to the inadequate implementation of Articles 10 and 10A.
+6\. Any Party operating under paragraph 1 of this Article may, at any time, notify the Secretariat in writing that, having taken all practicable steps it is unable to implement any or all of the obligations laid down in Articles 2A to 2E and Article 2I, or any or all obligations in Articles 2F to 2H that are decided pursuant to paragraph 1 bis of this Article, due to the inadequate implementation of Articles 10 and 10A.
 The Secretariat shall forthwith transmit a copy of the notification to the Parties, which shall consider the matter at their next Meeting, giving due recognition to paragraph 5 of this Article and shall decide upon appropriate action to be taken.
 
 7\. During the period between notification and the Meeting of the Parties at which the appropriate action referred to in paragraph 6 above is to be decided, or for a further period if the Meeting of the Parties so decides, the non-compliance procedures referred to in Article 8 shall not be invoked against the notifying Party.
@@ -393,6 +393,7 @@ The Secretariat shall forthwith transmit a copy of the notification to the Parti
 8 *ter.* Pursuant to paragraph 1 bis above:
 
 `  `(a) Each Party operating under paragraph 1 of this Article shall ensure that for the twelve-month period commencing on 1 January 2016, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed, annually, its calculated level of consumption in 2015;
+As of 1 January 2016 each Party operating under paragraph 1 of this Article shall comply with the control measures set out in paragraph 8 of Article 2F and, as the basis for its compliance with these control measures, it shall use the average of its calculated levels of production and consumption in 2015;
 
 `  `(b) Each Party operating under paragraph 1 of this Article shall ensure that for the twelve-month period commencing on 1 January 2040, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex C does not exceed zero;
 
@@ -413,7 +414,7 @@ This paragraph will apply save to the extent that the Parties decide to permit t
 
 # Article 6: Assessment and review of control measures
 
-Beginning in 1990, and at least every four years thereafter, the Parties shall assess the control measures provided for in Article 2 and Articles 2A to 2H on the basis of available scientific, environmental, technical and economic information.
+Beginning in 1990, and at least every four years thereafter, the Parties shall assess the control measures provided for in Article 2 and Articles 2A to 2I on the basis of available scientific, environmental, technical and economic information.
 At least one year before each assessment, the Parties shall convene appropriate panels of experts qualified in the fields mentioned and determine the composition and terms of reference of any such panels.
 Within one year of being convened, the panels will report their conclusions, through the Secretariat, to the Parties.
 
@@ -423,7 +424,7 @@ Within one year of being convened, the panels will report their conclusions, thr
 
 2\. Each Party shall provide to the Secretariat statistical data on its production, imports and exports of each of the controlled substances
 
-– in Annexes B and C, for the year 1989;
+– in Annexes B and Groups I and II of Annex C, for the year 1989;
 
 – in Annex E, for the year 1991,
 
@@ -435,7 +436,9 @@ or the best possible estimates of such data where actual data are not available,
 
 – Amounts destroyed by technologies approved by the Parties, and
 
-– Imports from and exports to Parties and non-Parties respectively, for the year during which provisions concerning the substances in Annexes A B, C and E respectively entered into force for that Party and for each year thereafter. Data shall be forwarded not later than nine months after the end of the year to which the data relate.
+– Imports from and exports to Parties and non-Parties respectively, for the year during which provisions concerning the substances in Annexes A B, C and E respectively entered into force for that Party and for each year thereafter.
+Each Party shall provide to the Secretariat statistical data on the annual amount of the controlled substance listed in Annex E used for quarantine and pre-shipment applications.
+Data shall be forwarded not later than nine months after the end of the year to which the data relate.
 
 3 *bis* Each Party shall provide to the Secretariat separate statistical data of its annual imports and exports of each of the controlled substances listed in Group II of Annex A and Group I of Annex C that have been recycled.
 
@@ -461,7 +464,7 @@ The Parties, at their first meeting, shall consider and approve procedures and i
 
 # Article 10: Technical assistance
 
-1\. The Parties shall establish a mechanism for the purposes of providing financial and technical co- operation, including the transfer of technologies, to Parties operating under paragraph 1 of Article 5 of this Protocol to enable their compliance with the control measures set out in Articles 2A to 2E, and any control measures in Articles 2F to 2H that are decided pursuant to paragraph 1 bis of Article 5 of the Protocol.
+1\. The Parties shall establish a mechanism for the purposes of providing financial and technical co- operation, including the transfer of technologies, to Parties operating under paragraph 1 of Article 5 of this Protocol to enable their compliance with the control measures set out in Articles 2A to 2E and Article 2I, and any control measures in Articles 2F to 2H that are decided pursuant to paragraph 1 bis of Article 5 of the Protocol.
 The mechanism, contributions to which shall be additional to other financial transfers to Parties operating under that paragraph, shall meet all agreed incremental costs of such Parties in order to enable their compliance with the control measures of the Protocol.
 An indicative list of the categories of incremental costs shall be decided by the meeting of the Parties.
 
@@ -606,7 +609,7 @@ In the event that these conditions have not been fulfilled by that date, the Pro
 
 # Article 17: Parties joining after entry into force
 
-Subject to Article 5, any State or regional economic integration organization which becomes a Party to this Protocol after the date of its entry into force, shall fulfil forthwith the sum of the obligations under Article 2, as well as under Articles 2A to 2H, and Article 4, that apply at that date to the States and regional economic integration organizations that became Parties on the date the Protocol entered into force.
+Subject to Article 5, any State or regional economic integration organization which becomes a Party to this Protocol after the date of its entry into force, shall fulfil forthwith the sum of the obligations under Article 2, as well as under Articles 2A to 2I, and Article 4, that apply at that date to the States and regional economic integration organizations that became Parties on the date the Protocol entered into force.
 
 # Article 18: Reservations
 
