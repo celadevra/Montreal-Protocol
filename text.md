@@ -103,19 +103,14 @@ Such increase shall be permitted only so as to satisfy the basic domestic needs 
 
 2\. Each Party shall ensure that for the period from 1 July 1991 to 31 December 1992 its calculated levels of consumption and production of the controlled substances in Group I of Annex A do not exceed 150 per cent of its calculated levels of production and consumption of those substances in 1986; with effect from 1 January 1993, the twelve-month control period for these controlled substances shall run from 1 January to 31 December each year.
 
-3\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1995, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex A does not exceed, annually, fifty per cent of its calculated level of consumption in 1986.
-Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed, annually, fifty per cent of its calculated level of production in 1986.
+3\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1994, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex A does not exceed, annually, twenty-five per cent of its calculated level of consumption in 1986.
+Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed, annually, twenty-five per cent of its calculated level of production in 1986.
 However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1986.
 
-4\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1997, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex A does not exceed, annually, fifteen per cent of its calculated level of consumption in 1986.
-Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed, annually, fifteen per cent of its calculated level of production in 1986.
-However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1986.
-
-5\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2000, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex A does not exceed zero.
+4\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1996, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex A does not exceed zero.
 Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed zero.
 However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production in 1986.
-
-6\. In 1992, the Parties will review the situation with the objective of accelerating the reduction schedule.
+This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
 
 ## Article 2B: Halons
 
@@ -123,62 +118,51 @@ However, in order to satisfy the basic domestic needs of the Parties operating u
 Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed, annually, its calculated level of production in 1986.
 However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1986.
 
-2\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1995, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group II of Annex A does not exceed, annually, fifty per cent of its calculated level of consumption in 1986.
-Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed, annually, fifty per cent of its calculated level of production in 1986.
-However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1986.
-This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy essential uses for which no adequate alternatives are available.
-
-3\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2000, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group II of Annex A does not exceed zero.
+2\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1994, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group II of Annex A does not exceed zero.
 Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed zero.
 However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production in 1986.
-This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy essential uses for which no adequate alternatives are available.
-
-4\. By 1 January 1993, the Parties shall adopt a decision identifying essential uses, if any, for the purposes of paragraphs 2 and 3 of this Article.
-Such decision shall be reviewed by the Parties at their subsequent meetings.
+This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
 
 ## Article 2C: Other fully halogenated CFCs
 
-1\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1993, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex B does not exceed, annually, eighty per cent of its calculated level of consumption in 1989.
-Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed, annually, eighty per cent of its calculated level of production in 1989.
-However, in order to/satisfy the basic domestic needs of the Parties operating under paragraph/1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1989.
+1\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1993, its calculated level of consumption of the controlled substances in Group I of Annex B does not exceed, annually, eighty per cent of its calculated level of consumption in 1989.
+Each Party producing one or more of these substances shall, for the same period, ensure that its calculated level of production of the substances does not exceed, annually, eighty per cent of its calculated level of production in 1989.
+However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1989.
 
-2\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1997, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex B does not exceed, annually, fifteen per cent of its calculated level of consumption in 1989.
-Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed, annually, fifteen per cent of its calculated level of production in 1989.
-However, in order to/satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1989.
+2\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1994, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex B does not exceed, annually, twenty-five per cent of its calculated level of consumption in 1989.
+Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed, annually, twenty-five per cent of its calculated level of production in 1989.
+However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1989.
 
-3\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2000, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex B does not exceed zero.
+3\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1996, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex B does not exceed zero.
 Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed zero.
 However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production in 1989.
+This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
 
 ## Article 2D: Carbon tetrachloride
 
-1\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1995, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Group II of Annex B does not exceed, annually, fifteen per cent of its calculated level of consumption in 1989.
-Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, fifteen per cent of its calculated level of production in 1989.
+1\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1995, its calculated level of consumption of the controlled substances in Group II of Annex B does not exceed, annually, fifteen per cent of its calculated level of consumption in 1989.
+Each Party producing the substance shall, for the same period, ensure that its calculated level of production of the substance does not exceed, annually, fifteen per cent of its calculated level of production in 1989.
 However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1989.
 
-2\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2000, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Group II of Annex B does not exceed zero.
+2\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1996, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Group II of Annex B does not exceed zero.
 Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed zero.
 However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production in 1989.
+This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
 
 ## Article 2E: 1,1,1-trichloroethane (methyl chloroform)
 
-1\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1993, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Group III of Annex B does not exceed, annually, its calculated level of consumption in 1989.
-Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, its calculated level of production in 1989.
+1\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1993, its calculated level of consumption of the controlled substance in Group III of Annex B does not exceed, annually, its calculated level of consumption in 1989.
+Each Party producing the substance shall, for the same period, ensure that its calculated level of production of the substance does not exceed, annually, its calculated level of production in 1989.
 However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1989.
 
-2\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1995, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Group III of Annex B does not exceed, annually, seventy per cent of its calculated level of consumption in 1989.
-Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, seventy per cent of its calculated level of consumption in 1989.
+2\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1994, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Group III of Annex B does not exceed, annually, fifty per cent of its calculated level of consumption in 1989.
+Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, fifty per cent of its calculated level of production in 1989.
 However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1989.
 
-3\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2000, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Group III of Annex B does not exceed, annually, thirty per cent of its calculated level of consumption in 1989.
-Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed, annually, thirty per cent of its calculated level of production in 1989.
-However, in order to satisfy the basic domestic needs of Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to ten per cent of its calculated level of production in 1989.
-
-4\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2005, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Group III of Annex B does not exceed zero.
+3\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1996, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Group III of Annex B does not exceed zero.
 Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed zero.
-However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production in 1989.
-
-5\. The Parties shall review, in 1992, the feasibility of a more rapid schedule of reductions than that set out in this Article.
+However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production for 1989.
+This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
 
 # Article 3: Calculation of control levels
 
