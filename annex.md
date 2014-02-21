@@ -160,4 +160,4 @@ The upper value is the estimate of the ODP of the isomer with the highest ODP, a
 |Group|Substance|Ozone-Depleting Potential|
 |:----|:--------|------------------------:|
 |*Group I*| | |
-|CH~3~Br|methyl bromide|0.7|
+|CH~3~Br|methyl bromide|0.6|
