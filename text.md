@@ -182,11 +182,11 @@ However, in order to satisfy the basic domestic needs of the Parties operating u
 
 # Article 3: Calculation of control levels
 
-For the purposes of Articles 2 and 5, each Party shall, for each group of substances in Annex A, determine its calculated levels of:
+For the purposes of Articles 2, 2A to 2E and 5, each Party shall, for each group of substances in Annex A or Annex B, determine its calculated levels of:
 
 ` `(a) Production by:
 
-`  ` `  `(i) multiplying its annual production of each controlled substance by the ozone depleting potential specified in respect of it in Annex A; and
+`  ` `  `(i) multiplying its annual production of each controlled substance by the ozone depleting potential specified in respect of it in Annex A or Annex B; and
 
 `  ` `  `(ii) adding together, for each such Group, the resulting figures;
 
@@ -197,24 +197,37 @@ However, beginning on 1 January 1993, any export of controlled substances to non
 
 # Article 4: Control of trade with non-Parties
 
-1\. Within one year of the entry into force of this Protocol, each Party shall ban the import of controlled substances from any State not party to this Protocol.
+1\. As of 1 January 1990, each Party shall ban the import of the controlled substances in Annex A from any State not party to this Protocol.
 
-2\. Beginning on 1 January 1993, no Party operating under paragraph 1 of Article 5 may export any controlled substance to any State not party to this Protocol.
+1 *bis* Within one year of the date of the entry into force of this paragraph, each Party shall ban the import of the controlled substances in Annex B from any State not party to this Protocol.
 
-3\. Within three years of the date of entry into force of this Protocol, the Parties shall, following the procedure in Article 10 of the Convention, elaborate in an annex a list of products containing controlled substances.
+2\. As of 1 January 1993, each Party shall ban the export of any controlled substances in Annex A to any State not party to this Protocol.
+
+2 *bis* Commencing one year after the date of entry into force of this paragraph, each Party shall ban the export of any controlled substances in Annex B to any State not party to this Protocol.
+
+3\. By 1 January 1992, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of products containing controlled substances in Annex A.
 Parties that have not objected to the annex in accordance with those procedures shall ban, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
 
-4\. Within five years of the entry into force of this Protocol, the Parties shall determine the feasibility of banning or restricting, from States not party to this Protocol, the import of products produced with, but not containing, controlled substances.
-If determined feasible, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of such products.
-Parties that have not objected to it in accordance with those procedures shall ban or restrict, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
+3 *bis* Within three years of the date of the entry into force of this paragraph, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of products containing controlled substances in Annex B.
+Parties that have not objected to the annex in accordance with those procedures shall ban, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
 
-5\. Each Party shall discourage the export, to any State not party to this Protocol, of technology for producing and for utilizing controlled substances.
+4\. By 1 January 1994, the Parties shall determine the feasibility of banning or restricting, from States not party to this Protocol, the import of products produced with, but not containing, controlled substances in Annex A.
+If determined feasible, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of such products.
+Parties that have not objected to the annex in accordance with those procedures shall ban, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
+
+4 *bis* Within five years of the date of the entry into force of this paragraph, the Parties shall determine the feasibility of banning or restricting, from States not party to this Protocol, the import of products produced with, but not containing, controlled substances in Annex B.
+If determined feasible, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of such products.
+Parties that have not objected to the annex in accordance with those procedures shall ban or restrict, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
+
+5\. Each Party undertakes to the fullest practicable extent to discourage the export to any State not party to this Protocol of technology for producing and for utilizing controlled substances.
 
 6\. Each Party shall refrain from providing new subsidies, aid, credits, guarantees or insurance programmes for the export to States not party to this Protocol of products, equipment, plants or technology that would facilitate the production of controlled substances.
 
 7\. Paragraphs 5 and 6 shall not apply to products, equipment, plants or technology that improve the containment, recovery, recycling or destruction of controlled substances, promote the development of alternative substances, or otherwise contribute to the reduction of emissions of controlled substances.
 
-8\. Notwithstanding the provisions of this Article, imports referred to in paragraphs 1, 3 and 4 may be permitted from any State not party to this Protocol, if that State is determined, by a meeting of the Parties, to be in full compliance with Article 2 and this Article, and has submitted data to that effect as specified in Article 7.
+8\. Notwithstanding the provisions of this Article, imports referred to in paragraphs 1, 1 bis, 3, 3 bis, 4 and 4 bis, and exports referred to in paragraphs 2 and 2 bis, may be permitted from, or to, any State not party to this Protocol, if that State is determined by a meeting of the Parties to be in full compliance with Article 2, Articles 2A to 2E, and this Article and have submitted data to that effect as specified in Article 7.
+
+9\. For the purposes of this Article, the term “State not party to this Protocol” shall include, with respect to a particular controlled substance, a State or regional economic integration organization that has not agreed to be bound by the control measures in effect for that substance.
 
 # Article 5: Special situation of developing countries
 
