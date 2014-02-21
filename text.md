@@ -178,3 +178,59 @@ The Parties, at their first meeting, shall consider and approve procedures and i
 2\. The Parties, individually, jointly or through competent international bodies, shall co-operate in promoting public awareness of the environmental effects of the emissions of controlled substances and other substances that deplete the ozone layer.
 
 3\. Within two years of the entry into force of this Protocol and every two years thereafter, each Party shall submit to the Secretariat a summary of the activities it has conducted pursuant to this Article.
+
+# Article 10: Technical assistance
+
+1\. The Parties shall in the context of the provisions of Article 4 of the Convention, and taking into account in particular the needs of developing countries, co-operate in promoting technical assistance to facilitate participation in and implementation of this Protocol.
+
+2\. Any Party or Signatory to this Protocol may submit a request to the Secretariat for technical assistance for the purposes of implementing or participating in the Protocol.
+
+3\. The Parties, at their first meeting, shall begin deliberations on the means of fulfilling the obligations set out in Article 9, and paragraphs 1 and 2 of this Article, including the preparation of workplans.
+Such workplans shall pay special attention to the needs and circumstances of the developing countries.
+States and regional economic integration organizations not party to the Protocol should be encouraged to participate in activities specified in such workplans.
+
+# Article 11: Meetings of the parties
+
+1\. The Parties shall hold meetings at regular intervals.
+The Secretariat shall convene the first meeting of the Parties not later than one year after the date of the entry into force of this Protocol and in conjunction with a meeting of the Conference of the Parties to the Convention, if a meeting of the latter is scheduled within that period.
+
+2\. Subsequent ordinary meetings of the parties shall be held, unless the Parties otherwise decide, in conjunction with meetings of the Conference of the Parties to the Convention.
+Extraordinary meetings of the Parties shall be held at such other times as may be deemed necessary by a meeting of the Parties, or at the written request of any Party, provided that within six months of such a request being communicated to them by the Secretariat, it is supported by at least one third of the Parties.
+
+3\. The Parties, at their first meeting, shall:
+
+`  `(a) adopt by consensus rules of procedure for their meetings;
+
+`  `(b) adopt by consensus the financial rules referred to in paragraph 2 of Article 13;
+
+`  `(c) establish the panels and determine the terms of reference referred to in Article 6;
+
+`  `(d) consider and approve the procedures and institutional mechanisms specified in Article 8; and
+
+`  `(e) begin preparation of workplans pursuant to paragraph 3 of Article 10\.
+
+4\. The functions of the meetings of the Parties shall be to:
+
+`  `(a) review the implementation of this Protocol;
+
+`  `(b) decide on any adjustments or reductions referred to in paragraph 9 of Article 2;
+
+`  `(c) decide on any addition to, insertion in or removal from any annex of substances and on related control measures in accordance with paragraph 10 of Article 2;
+
+`  `(d) establish, where necessary, guidelines or procedures for reporting of information as provided for in Article 7 and paragraph 3 of Article 9;
+
+`  `(e) review requests for technical assistance submitted pursuant to paragraph 2 of Article 10;
+
+`  `(f) review reports prepared by the secretariat pursuant to subparagraph (c) of Article 12;
+
+`  `(g) assess, in accordance with Article 6, the control measures provided for in Article 2;
+
+`  `(h) consider and adopt, as required, proposals for amendment of this Protocol or any annex and for any new annex;
+
+`  `(i) consider and adopt the budget for implementing this Protocol; and
+
+`  `(j) consider and undertake any additional action that may be required for the achievement of the purposes of this Protocol.
+
+5\. The United Nations, its specialized agencies and the International Atomic Energy Agency, as well as any State not party to this Protocol, may be represented at meetings of the Parties as observers.
+Any body or agency, whether national or international, governmental or non-governmental, qualified in fields relating to the protection of the ozone layer which has informed the secretariat of its wish to be represented at a meeting of the Parties as an observer may be admitted unless at least one third of the Parties present object.
+The admission and participation of observers shall be subject to the rules of procedure adopted by the Parties.
