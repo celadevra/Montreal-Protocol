@@ -45,37 +45,37 @@
 |Group|  |
 |:---|:--|
 |Group I| Substance|
-|CHFCl2    |(HCFC-21) |
-|CHF2Cl    |(HCFC-22) |
-|CH2FCl    |(HCFC-31) |
-|C2HFCl4   |(HCFC-121)|
-|C2HF2Cl3  |(HCFC-122)|
-|C2HF3Cl2  |(HCFC-123)|
-|C2HF4Cl   |(HCFC-124)|
-|C2H2FCl3  |(HCFC-131)|
-|C2H2F2Cl2 |(HCFC-132)|
-|C2H2F3Cl  |(HCFC-133)|
-|C2H3FCl2  |(HCFC-141)|
-|C2H3F2Cl  |(HCFC-142)|
-|C2H4FCl   |(HCFC-151)|
-|C3HFCl6   |(HCFC-221)|
-|C3HF2Cl5  |(HCFC-222)|
-|C3HF3Cl4  |(HCFC-223)|
-|C3HF4Cl3  |(HCFC-224)|
-|C3HF5Cl2  |(HCFC-225)|
-|C3HF6Cl   |(HCFC-226)|
-|C3H2FCl5  |(HCFC-231)|
-|C3H2F2Cl4 |(HCFC-232)|
-|C3H2F3Cl3 |(HCFC-233)|
-|C3H2F4Cl2 |(HCFC-234)|
-|C3H2F5Cl  |(HCFC-235)|
-|C3H3FCl4  |(HCFC-241)|
-|C3H3F2Cl3 |(HCFC-242)|
-|C3H3F3Cl2 |(HCFC-243)|
-|C3H3F4Cl  |(HCFC-244)|
-|C3H4FCl3  |(HCFC-251)|
-|C3H4F2Cl2 |(HCFC-252)|
-|C3H4F3Cl  |(HCFC-253)|
-|C3H5FCl2  |(HCFC-261)|
-|C3H5F2Cl  |(HCFC-262)|
-|C3H6FCl   |(HCFC-271)|
+|CHFCl~2~    |(HCFC-21) |
+|CHF~2~Cl    |(HCFC-22) |
+|CH~2~FCl    |(HCFC-31) |
+|C~2~HFCl~4~   |(HCFC-121)|
+|C~2~HF~2~Cl~3~  |(HCFC-122)|
+|C~2~HF~3~Cl~2~  |(HCFC-123)|
+|C~2~HF~4~Cl   |(HCFC-124)|
+|C~2~H~2~FCl~3~  |(HCFC-131)|
+|C~2~H~2~F~2~Cl~2~ |(HCFC-132)|
+|C~2~H~2~F~3~Cl  |(HCFC-133)|
+|C~2~H~3~FCl~2~  |(HCFC-141)|
+|C~2~H~3~F~2~Cl  |(HCFC-142)|
+|C~2~H~4~FCl   |(HCFC-151)|
+|C~3~HFCl~6~   |(HCFC-221)|
+|C~3~HF~2~Cl~5~  |(HCFC-222)|
+|C~3~HF~3~Cl~4~  |(HCFC-223)|
+|C~3~HF~4~Cl~3~  |(HCFC-224)|
+|C~3~HF~5~Cl~2~  |(HCFC-225)|
+|C~3~HF~6~Cl   |(HCFC-226)|
+|C~3~H~2~FCl~5~  |(HCFC-231)|
+|C~3~H~2~F~2~Cl~4~ |(HCFC-232)|
+|C~3~H~2~F~3~Cl~3~ |(HCFC-233)|
+|C~3~H~2~F~4~Cl~2~ |(HCFC-234)|
+|C~3~H~2~F~5~Cl  |(HCFC-235)|
+|C~3~H~3~FCl~4~  |(HCFC-241)|
+|C~3~H~3~F~2~Cl~3~ |(HCFC-242)|
+|C~3~H~3~F~3~Cl~2~ |(HCFC-243)|
+|C~3~H~3~F~4~Cl  |(HCFC-244)|
+|C~3~H~4~FCl~3~  |(HCFC-251)|
+|C~3~H~4~F~2~Cl~2~ |(HCFC-252)|
+|C~3~H~4~F~3~Cl  |(HCFC-253)|
+|C~3~H~5~FCl~2~  |(HCFC-261)|
+|C~3~H~5~F~2~Cl  |(HCFC-262)|
+|C~3~H~6~FCl   |(HCFC-271)|
