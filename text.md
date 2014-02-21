@@ -22,7 +22,7 @@ The Parties to this Protocol,
 
 *Noting* the precautionary measures for controlling emissions of certain chlorofluorocarbons that have already been taken at national and regional levels,
 
-*Considering* the importance of promoting international co-operation in the research and development of science and technology relating to the control and reduction of emissions of substances that deplete the ozone layer, bearing in mind in particular the needs of developing countries,
+*Considering* the importance of promoting international co-operation in the research, development and transfer of alternative technologies relating to the control and reduction of emissions of substances that deplete the ozone layer, bearing in mind in particular the needs of developing countries,
 
 HAVE AGREED AS FOLLOWS:
 
@@ -36,16 +36,20 @@ For the purposes of this Protocol:
 
 3\. “Secretariat” means the Secretariat of the Convention.
 
-4\. “Controlled substance” means a substance listed in Annex A to this Protocol, whether existing alone or in a mixture.
-It excludes, however, any such substance or mixture which is in a manufactured product other than a container used for the transportation or storage of the substance listed.
+4\. “Controlled substance” means a substance in Annex A or in Annex B to this Protocol, whether existing alone or in a mixture.
+It includes the isomers of any such substance, except as specified in the relevant Annex, but excludes any controlled substance or mixture which is in a manufactured product other than a container used for the transportation or storage of that substance.
 
-5\. “Production” means the amount of controlled substances produced, minus the amount destroyed by technologies to be approved by the Parties.
+5\. “Production” means the amount of controlled substances produced, minus the amount destroyed by technologies to be approved by the Parties and minus the amount entirely used as feedstock in the manufacture of other chemicals.
+The amount recycled and reused is not to be considered as “production”.
 
 6\. “Consumption” means production plus imports minus exports of controlled substances.
 
 7\. “Calculated levels” of production, imports, exports and consumption means levels determined in accordance with Article 3.
 
 8\. “Industrial rationalization” means the transfer of all or a portion of the calculated level of production of one Party to another, for the purpose of achieving economic efficiencies or responding to anticipated shortfalls in supply as a result of plant closures.
+
+9\. “Transitional substance” means a substance in Annex C to this Protocol, whether existing alone or in a mixture.
+It includes the isomers of any such substance, except as may be specified in Annex C, but excludes any transitional substance or mixture which is in a manufactured product other than a container used for the transportation or storage of that substance.
 
 # Article 2: Control Measures
 
@@ -57,14 +61,14 @@ It excludes, however, any such substance or mixture which is in a manufactured p
 
 4\. *Replaced by Article 2A.*
 
-5\. Any Party whose calculated level of production in 1986 of the controlled substances in Group I of Annex A was less than twenty-five kilotonnes may, for the purposes of industrial rationalization, transfer to or receive from any other Party, production in excess of the limits set out in paragraphs 1, 3 and 4 provided that the total combined calculated levels of production of the Parties concerned does not exceed the production limits set out in this Article.
-Any transfer of such production shall be notified to the secretariat, no later than the time of the transfer.
+5\. Any Party may, for any one or more control periods, transfer to another Party any portion of its calculated level of production set out in Articles 2A to 2E, provided that the total combined calculated levels of production of the Parties concerned for any group of controlled substances do not exceed the production limits set out in those Articles for that group.
+Such transfer of production shall be notified to the Secretariat by each of the Parties concerned, stating the terms of such transfer and the period for which it is to apply.
 
-6\. Any Party not operating under Article 5, that has facilities for the production of controlled substances under construction, or contracted for, prior to 16 September 1987, and provided for in national legislation prior to 1 January 1987, may add the production from such facilities to its 1986 production of such substances for the purposes of determining its calculated level of production for 1986, provided that such facilities are completed by 31 December 1990 and that such production does not raise that Party‟s annual calculated level of consumption of the controlled substances above 0.5 kilograms per capita.
+6\. Any Party not operating under Article 5, that has facilities for the production of Annex A or Annex B controlled substances under construction, or contracted for, prior to 16 September 1987, and provided for in national legislation prior to 1 January 1987, may add the production from such facilities to its 1986 production of such substances for the purposes of determining its calculated level of production for 1986, provided that such facilities are completed by 31 December 1990 and that such production does not raise that Party‟s annual calculated level of consumption of the controlled substances above 0.5 kilograms per capita.
 
 7\. Any transfer of production pursuant to paragraph 5 or any addition of production pursuant to paragraph 6 shall be notified to the Secretariat, no later than the time of the transfer or addition.
 
-8\. (a) Any Parties which are Member States of a regional economic integration organization as defined in Article 1 (6) of the Convention may agree that they shall jointly fulfil their obligations respecting consumption under this Article provided that their total combined calculated level of consumption does not exceed the levels required by this Article.
+8\. (a) Any Parties which are Member States of a regional economic integration organization as defined in Article 1 (6) of the Convention may agree that they shall jointly fulfil their obligations respecting consumption under this Article and Articles 2A to 2E provided that their total combined calculated level of consumption does not exceed the levels required by this Article and Articles 2A to 2E.
 
 `   `(b) The Parties to any such agreement shall inform the Secretariat of the terms of the agreement before the date of the reduction in consumption with which the agreement is concerned.
 
@@ -72,24 +76,22 @@ Any transfer of such production shall be notified to the secretariat, no later t
 
 9\. (a) Based on the assessments made pursuant to Article 6, the Parties may decide whether:
 
-`  ` `  `(i) Adjustments to the ozone depleting potentials specified in Annex A should be made and, if so, what the adjustments should be; and
+`  ` `  `(i) Adjustments to the ozone depleting potentials specified in Annex A and/or Annex B should be made and, if so, what the adjustments should be; and
 
-`  ` `  `(ii) Further adjustments and reductions of production or consumption of the controlled substances from 1986 levels should be undertaken and, if so, what the scope, amount and timing of any such adjustments and reductions should be;
+`  ` `  `(ii) Further adjustments and reductions of production or consumption of the controlled substances should be undertaken and, if so, what the scope, amount and timing of any such adjustments and reductions should be;
 
 `  `(b) Proposals for such adjustments shall be communicated to the Parties by the Secretariat at least six months before the meeting of the Parties at which they are proposed for adoption;
 
 `  `(c) In taking such decisions, the Parties shall make every effort to reach agreement by consensus.
-If all efforts at consensus have been exhausted, and no agreement reached, such decisions shall, as a last resort, be adopted by a two-thirds majority vote of the Parties present and voting representing at least fifty per cent of the total consumption of the controlled substances of the Parties;
+If all efforts at consensus have been exhausted, and no agreement reached, such decisions shall, as a last resort, be adopted by a two-thirds majority vote of the Parties present and voting representing a majority of the Parties operating under paragraph 1 of Article 5 present and voting and a majority of the Parties not so operating present and voting;
 
 `  `(d) The decisions, which shall be binding on all Parties, shall forthwith be communicated to the Parties by the Depositary. Unless otherwise provided in the decisions, they shall enter into force on the expiry of six months from the date of the circulation of the communication by the Depositary.
 
-10\. (a) Based on the assessments made pursuant to Article 6 of this Protocol and in accordance with the procedure set out in Article 9 of the Convention, the Parties may decide:
+10\. Based on the assessments made pursuant to Article 6 of this Protocol and in accordance with the procedure set out in Article 9 of the Convention, the Parties may decide:
 
 `  ` `  `(i) whether any substances, and if so which, should be added to or removed from any annex to this Protocol, and
 
 `  ` `  `(ii) the mechanism, scope and timing of the control measures that should apply to those substances;
-
-`  `(b) Any such decisions shall become effective, provided that it has been accepted by a two-thirds majority vote of the Parties present and voting.
 
 11\. Notwithstanding the provisions contained in this Article, Parties may take more stringent measures than those required by this Article.
 
