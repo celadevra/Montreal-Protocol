@@ -301,7 +301,7 @@ The Secretariat shall forthwith transmit a copy of the notification to the Parti
 
 # Article 6: Assessment and review of control measures
 
-Beginning in 1990, and at least every four years thereafter, the Parties shall assess the control measures provided for in Article 2 and Articles 2A to 2E, and the situation regarding production, imports and exports of the transitional substances in Group I of Annex C on the basis of available scientific, environmental, technical and economic information.
+Beginning in 1990, and at least every four years thereafter, the Parties shall assess the control measures provided for in Article 2 and Articles 2A to 2H on the basis of available scientific, environmental, technical and economic information.
 At least one year before each assessment, the Parties shall convene appropriate panels of experts qualified in the fields mentioned and determine the composition and terms of reference of any such panels.
 Within one year of being convened, the panels will report their conclusions, through the Secretariat, to the Parties.
 
@@ -309,19 +309,25 @@ Within one year of being convened, the panels will report their conclusions, thr
 
 1\. Each Party shall provide to the Secretariat, within three months of becoming a Party, statistical data on its production, imports and exports of each of the controlled substances in Annex A for the year 1986, or the best possible estimates of such data where actual data are not available.
 
-2\. Each Party shall provide to the Secretariat statistical data on its production, imports and exports of each of the controlled substances in Annex B and each of the transitional substances in Group I of Annex C, for the year 1989, or the best possible estimates of such data where actual data are not available, not later than three months after the date when the provisions set out in the Protocol with regard to the substances in Annex B enter into force for that Party.
+2\. Each Party shall provide to the Secretariat statistical data on its production, imports and exports of each of the controlled substances
 
-3\. Each Party shall provide statistical data to the Secretariat on its annual production (as defined in paragraph 5 of Article 1), and, separately,
+– in Annexes B and C, for the year 1989;
 
-– amounts used for feedstocks,
+– in Annex E, for the year 1991,
 
-– amounts destroyed by technologies approved by the Parties,
+or the best possible estimates of such data where actual data are not available, not later than three months after the date when the provisions set out in the Protocol with regard to the substances in Annexes B, C and E respectively enter into force for that Party.
 
-– imports and exports to Parties and non-Parties respectively,
+3\. Each Party shall provide to the Secretariat statistical data on its annual production (as defined in paragraph 5 of Article 1) of each of the controlled substances listed in Annexes A, B, C and E and, separately, for each substance,
 
-of each of the controlled substances listed in Annexes A and B as well as of the transitional substances in Group I of Annex C, for the year during which provisions concerning the substances in Annex B entered into force for that Party and for each year thereafter. Data shall be forwarded not later than nine months after the end of the year to which the data relate.
+– Amounts used for feedstocks,
 
-4\. For Parties operating under the provisions of paragraph 8 (a) of Article 2, the requirements in paragraphs 1, 2 and 3 of this Article in respect of statistical data on imports and exports shall be satisfied if the regional economic integration organization concerned provides data on imports and exports between the organization and States that are not members of that organization.
+– Amounts destroyed by technologies approved by the Parties, and
+
+– Imports from and exports to Parties and non-Parties respectively, for the year during which provisions concerning the substances in Annexes A B, C and E respectively entered into force for that Party and for each year thereafter. Data shall be forwarded not later than nine months after the end of the year to which the data relate.
+
+3 *bis* Each Party shall provide to the Secretariat separate statistical data of its annual imports and exports of each of the controlled substances listed in Group II of Annex A and Group I of Annex C that have been recycled.
+
+4\. For Parties operating under the provisions of paragraph 8 (a) of Article 2, the requirements in paragraphs 1, 2, 3 and 3 *bis* of this Article in respect of statistical data on imports and exports shall be satisfied if the regional economic integration organization concerned provides data on imports and exports between the organization and States that are not members of that organization.
 
 # Article 8: Non-compliance
 
@@ -331,7 +337,7 @@ The Parties, at their first meeting, shall consider and approve procedures and i
 
 1\. The Parties shall co-operate, consistent with their national laws, regulations and practices and taking into account in particular the needs of developing countries, in promoting, directly or through competent international bodies, research, development and exchange of information on:
 
-`  `(a) Best technologies for improving the containment, recovery, recycling, or destruction of controlled and transitional substances or otherwise reducing their emissions;
+`  `(a) Best technologies for improving the containment, recovery, recycling, or destruction of controlled substances or otherwise reducing their emissions;
 
 `  `(b) possible alternatives to controlled substances, to products containing such substances, and to products manufactured with them; and
 
@@ -343,7 +349,7 @@ The Parties, at their first meeting, shall consider and approve procedures and i
 
 # Article 10: Technical assistance
 
-1\. The Parties shall establish a mechanism for the purposes of providing financial and technical co- operation, including the transfer of technologies, to Parties operating under paragraph 1 of Article 5 of this Protocol to enable their compliance with the control measures set out in Articles 2A to 2E of the Protocol.
+1\. The Parties shall establish a mechanism for the purposes of providing financial and technical co- operation, including the transfer of technologies, to Parties operating under paragraph 1 of Article 5 of this Protocol to enable their compliance with the control measures set out in Articles 2A to 2E, and any control measures in Articles 2F to 2H that are decided pursuant to paragraph 1 bis of Article 5 of the Protocol.
 The mechanism, contributions to which shall be additional to other financial transfers to Parties operating under that paragraph, shall meet all agreed incremental costs of such Parties in order to enable their compliance with the control measures of the Protocol.
 An indicative list of the categories of incremental costs shall be decided by the meeting of the Parties.
 
@@ -433,7 +439,7 @@ Extraordinary meetings of the Parties shall be held at such other times as may b
 
 `  `(f) review reports prepared by the secretariat pursuant to subparagraph (c) of Article 12;
 
-`  `(g) assess, in accordance with Article 6, the control measures and the situation regarding transitional substances;
+`  `(g) assess, in accordance with Article 6, the control measures;
 
 `  `(h) consider and adopt, as required, proposals for amendment of this Protocol or any annex and for any new annex;
 
@@ -488,7 +494,7 @@ In the event that these conditions have not been fulfilled by that date, the Pro
 
 # Article 17: Parties joining after entry into force
 
-Subject to Article 5, any State or regional economic integration organization which becomes a Party to this Protocol after the date of its entry into force, shall fulfil forthwith the sum of the obligations under Article 2, as well as under Articles 2A to 2E, and Article 4, that apply at that date to the States and regional economic integration organizations that became Parties on the date the Protocol entered into force.
+Subject to Article 5, any State or regional economic integration organization which becomes a Party to this Protocol after the date of its entry into force, shall fulfil forthwith the sum of the obligations under Article 2, as well as under Articles 2A to 2H, and Article 4, that apply at that date to the States and regional economic integration organizations that became Parties on the date the Protocol entered into force.
 
 # Article 18: Reservations
 
