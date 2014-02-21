@@ -389,7 +389,7 @@ Extraordinary meetings of the Parties shall be held at such other times as may b
 
 `  `(f) review reports prepared by the secretariat pursuant to subparagraph (c) of Article 12;
 
-`  `(g) assess, in accordance with Article 6, the control measures provided for in Article 2;
+`  `(g) assess, in accordance with Article 6, the control measures and the situation regarding transitional substances;
 
 `  `(h) consider and adopt, as required, proposals for amendment of this Protocol or any annex and for any new annex;
 
@@ -444,7 +444,7 @@ In the event that these conditions have not been fulfilled by that date, the Pro
 
 # Article 17: Parties joining after entry into force
 
-Subject to Article 5, any State or regional economic integration organization which becomes a Party to this Protocol after the date of its entry into force, shall fulfil forthwith the sum of the obligations under Article 2, as well as under Article 4, that apply at that date to the States and regional economic integration organizations that became Parties on the date the Protocol entered into force.
+Subject to Article 5, any State or regional economic integration organization which becomes a Party to this Protocol after the date of its entry into force, shall fulfil forthwith the sum of the obligations under Article 2, as well as under Articles 2A to 2E, and Article 4, that apply at that date to the States and regional economic integration organizations that became Parties on the date the Protocol entered into force.
 
 # Article 18: Reservations
 
@@ -452,8 +452,7 @@ No reservations may be made to this Protocol.
 
 # Article 19: Withdrawal
 
-For the purposes of this Protocol, the provisions of Article 19 of the Convention relating to withdrawal shall apply, except with respect to Parties referred to in paragraph 1 of Article 5.
-Any such Party may withdraw from this Protocol by giving written notification to the Depositary at any time after four years of assuming the obligations specified in paragraphs 1 to 4 of Article 2.
+Any Party may withdraw from this Protocol by giving written notification to the Depositary at any time after four years of assuming the obligations specified in paragraph 1 of Article 2A.
 Any such withdrawal shall take effect upon expiry of one year after the date of its receipt by the Depositary, or on such later date as may be specified in the notification of the withdrawal.
 
 # Article 20: Authentic texts
