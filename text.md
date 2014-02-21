@@ -246,11 +246,15 @@ However, beginning on 1 January 1993, any export of controlled substances to non
 
 1 *ter* Within one year of the date of entry into force of this paragraph, each Party shall ban the import of any controlled substances in Group II of Annex C from any State not party to this Protocol.
 
+1 *qua.* Within one year of the date of entry into force of this paragraph, each Party shall ban the import of the controlled substance in Annex E from any State not party to this Protocol.
+
 2\. As of 1 January 1993, each Party shall ban the export of any controlled substances in Annex A to any State not party to this Protocol.
 
 2 *bis* Commencing one year after the date of entry into force of this paragraph, each Party shall ban the export of any controlled substances in Annex B to any State not party to this Protocol.
 
 2 *ter* Commencing one year after the date of entry into force of this paragraph, each Party shall ban the export of any controlled substances in Group II of Annex C to any State not party to this Protocol.
+
+2 *qua.* Commencing one year after the date of entry into force of this paragraph, each Party shall ban the export of the controlled substance in Annex E to any State not party to this Protocol.
 
 3\. By 1 January 1992, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of products containing controlled substances in Annex A.
 Parties that have not objected to the annex in accordance with those procedures shall ban, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
@@ -273,17 +277,33 @@ Parties that have not objected to the annex in accordance with those procedures 
 If determined feasible, the Parties shall, following the procedures in Article 10 of the Convention, elaborate in an annex a list of such products.
 Parties that have not objected to the annex in accordance with those procedures shall ban or restrict, within one year of the annex having become effective, the import of those products from any State not party to this Protocol.
 
-5\. Each Party undertakes to the fullest practicable extent to discourage the export to any State not party to this Protocol of technology for producing and for utilizing controlled substances in Annexes A and B and Group II of Annex C.
+5\. Each Party undertakes to the fullest practicable extent to discourage the export to any State not party to this Protocol of technology for producing and for utilizing controlled substances in Annexes A and B and Group II of Annex C and Annex E.
 
-6\. Each Party shall refrain from providing new subsidies, aid, credits, guarantees or insurance programmes for the export to States not party to this Protocol of products, equipment, plants or technology that would facilitate the production of controlled substances in Annexes A and B and Group II of Annex C.
+6\. Each Party shall refrain from providing new subsidies, aid, credits, guarantees or insurance programmes for the export to States not party to this Protocol of products, equipment, plants or technology that would facilitate the production of controlled substances in Annexes A and B and Group II of Annex C and Annex E.
 
-7\. Paragraphs 5 and 6 shall not apply to products, equipment, plants or technology that improve the containment, recovery, recycling or destruction of controlled substances in Annexes A and B and Group II of Annex C, promote the development of alternative substances, or otherwise contribute to the reduction of emissions of controlled substances in Annexes A and B and Group II of Annex C.
+7\. Paragraphs 5 and 6 shall not apply to products, equipment, plants or technology that improve the containment, recovery, recycling or destruction of controlled substances in Annexes A and B and Group II of Annex C and Annex E, promote the development of alternative substances, or otherwise contribute to the reduction of emissions of controlled substances in Annexes A and B and Group II of Annex C and Annex E.
 
-8\. Notwithstanding the provisions of this Article, imports and exports referred to in paragraphs 1 to 4 *ter* of this Article, may be permitted from, or to, any State not party to this Protocol, if that State is determined by a meeting of the Parties to be in full compliance with Article 2, Articles 2A to 2E, Article 2G, and this Article and have submitted data to that effect as specified in Article 7.
+8\. Notwithstanding the provisions of this Article, imports and exports referred to in paragraphs 1 to 4 *ter* of this Article, may be permitted from, or to, any State not party to this Protocol, if that State is determined by a meeting of the Parties to be in full compliance with Article 2, Articles 2A to 2E, Article 2G and 2H, and this Article and have submitted data to that effect as specified in Article 7.
 
 9\. For the purposes of this Article, the term “State not party to this Protocol” shall include, with respect to a particular controlled substance, a State or regional economic integration organization that has not agreed to be bound by the control measures in effect for that substance.
 
 10\. By 1 January 1996, the Parties shall consider whether to amend this Protocol in order to extend the measures in this Article to trade in controlled substances in Group I of Annex C and in Annex E with States not party to the Protocol.
+
+## Article 4A: Control of trade with Parties
+
+1\. Where, after the phase-out date applicable to it for a controlled substance, a Party is unable, despite having taken all practicable steps to comply with its obligation under the Protocol, to cease production of that substance for domestic consumption, other than for uses agreed by the Parties to be essential, it shall ban the export of used, recycled and reclaimed quantities of that substance, other than for the purpose of destruction.
+
+2\. Paragraph 1 of this Article shall apply without prejudice to the operation of Article 11 of the Convention and the non-compliance procedure developed under Article 8 of the Protocol.
+
+## Article 4B: Licensing
+
+1\. Each Party shall, by 1 January 2000 or within three months of the date of entry into force of this Article for it, whichever is the later, establish and implement a system for licensing the import and export of new, used, recycled and reclaimed controlled substances in Annexes A, B, C and E.
+
+2\. Notwithstanding paragraph 1 of this Article, any Party operating under paragraph 1 of Article 5 which decides it is not in a position to establish and implement a system for licensing the import and export of controlled substances in Annexes C and E, may delay taking those actions until 1 January 2005 and 1 January 2002, respectively.
+
+3\. Each Party shall, within three months of the date of introducing its licensing system, report to the Secretariat on the establishment and operation of that system.
+
+4\. The Secretariat shall periodically prepare and circulate to all Parties a list of the Parties that have reported to it on their licensing systems and shall forward this information to the Implementation Committee for consideration and appropriate recommendations to the Parties.
 
 # Article 5: Special situation of developing countries
 
