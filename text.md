@@ -20,6 +20,8 @@ The Parties to this Protocol,
 
 *Acknowledging* that special provision is required to meet the needs of developing countries for these substances, Noting the precautionary measures for controlling emissions of certain chlorofluorocarbons that have already been taken at national and regional levels,
 
+*Noting* the precautionary measures for controlling emissions of certain chlorofluorocarbons that have already been taken at national and regional levels,
+
 *Considering* the importance of promoting international co-operation in the research and development of science and technology relating to the control and reduction of emissions of substances that deplete the ozone layer, bearing in mind in particular the needs of developing countries,
 
 HAVE AGREED AS FOLLOWS:
