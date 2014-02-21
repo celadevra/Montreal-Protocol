@@ -109,8 +109,18 @@ However, in order to satisfy the basic domestic needs of the Parties operating u
 
 4\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1996, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex A does not exceed zero.
 Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed zero.
-However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production in 1986.
+However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by a quantity equal to the annual average of its production of the controlled substances in Group I of Annex A for basic domestic needs for the period 1995 to 1997 inclusive.
 This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
+
+5\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2003 and in each twelve-month period thereafter, its calculated level of production of the controlled substances in Group I of Annex A for the basic domestic needs of the Parties operating under paragraph 1 of Article 5 does not exceed eighty per cent of the annual average of its production of those substances for basic domestic needs for the period 1995 to 1997 inclusive.
+
+6\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2005 and in each twelve-month period thereafter, its calculated level of production of the controlled substances in Group I of Annex A for the basic domestic needs of the Parties operating under paragraph 1 of Article 5 does not exceed fifty per cent of the annual average of its production of those substances for basic domestic needs for the period 1995 to 1997 inclusive.
+
+7\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2007 and in each twelve-month period thereafter, its calculated level of production of the controlled substances in Group I of Annex A for the basic domestic needs of the Parties operating under paragraph 1 of Article 5 does not exceed fifteen per cent of the annual average of its production of those substances for basic domestic needs for the period 1995 to 1997 inclusive.
+
+8\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2010 and in each twelve-month period thereafter, its calculated level of production of the controlled substances in Group I of Annex A for the basic domestic needs of the Parties operating under paragraph 1 of Article 5 does not exceed zero.
+
+9\. For the purposes of calculating basic domestic needs under paragraphs 4 to 8 of this Article, the calculation of the annual average of production by a Party includes any production entitlements that it has transferred in accordance with paragraph 5 of Article 2, and excludes any production entitlements that it has acquired in accordance with paragraph 5 of Article 2.
 
 ## Article 2B: Halons
 
@@ -120,8 +130,12 @@ However, in order to satisfy the basic domestic needs of the Parties operating u
 
 2\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1994, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group II of Annex A does not exceed zero.
 Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed zero.
-However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production in 1986.
+However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may, until 1 January 2002 exceed that limit by up to fifteen per cent of its calculated level of production in 1986; thereafter, it may exceed that limit by a quantity equal to the annual average of its production of the controlled substances in Group II of Annex A for basic domestic needs for the period 1995 to 1997 inclusive.
 This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
+
+3\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2005 and in each twelve-month period thereafter, its calculated level of production of the controlled substances in Group II of Annex A for the basic domestic needs of the Parties operating under paragraph 1 of Article 5 does not exceed fifty per cent of the annual average of its production of those substances for basic domestic needs for the period 1995 to 1997 inclusive.
+
+4\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2010 and in each twelve-month period thereafter, its calculated level of production of the controlled substances in Group II of Annex A for the basic domestic needs of the Parties operating under paragraph 1 of Article 5 does not exceed zero.
 
 ## Article 2C: Other fully halogenated CFCs
 
@@ -135,8 +149,12 @@ However, in order to satisfy the basic domestic needs of the Parties operating u
 
 3\. Each Party shall ensure that for the twelve-month period commencing on 1 January 1996, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substances in Group I of Annex B does not exceed zero.
 Each Party producing one or more of these substances shall, for the same periods, ensure that its calculated level of production of the substances does not exceed zero.
-However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production in 1989.
+However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may, until 1 January 2003 exceed that limit by up to fifteen per cent of its calculated level of production in 1989; thereafter, it may exceed that limit by a quantity equal to eighty per cent of the annual average of its production of the controlled substances in Group I of Annex B for basic domestic needs for the period 1998 to 2000 inclusive.
 This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be essential.
+
+4\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2007 and in each twelve-month period thereafter, its calculated level of production of the controlled substances in Group I of Annex B for the basic domestic needs of the Parties operating under paragraph 1 of Article 5 does not exceed fifteen per cent of the annual average of its production of those substances for basic domestic needs for the period 1998 to 2000 inclusive.
+
+5\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2010 and in each twelve-month period thereafter, its calculated level of production of the controlled substances in Group I of Annex B for the basic domestic needs of the Parties operating under paragraph 1 of Article 5 does not exceed zero.
 
 ## Article 2D: Carbon tetrachloride
 
@@ -218,8 +236,12 @@ However, in order to satisfy the basic domestic needs of the Parties operating u
 
 5\. Each Party shall ensure that for the twelve-month period commencing on 1 January 2005, and in each twelve-month period thereafter, its calculated level of consumption of the controlled substance in Annex E does not exceed zero.
 Each Party producing the substance shall, for the same periods, ensure that its calculated level of production of the substance does not exceed zero.
-However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may exceed that limit by up to fifteen per cent of its calculated level of production in 1991.
+However, in order to satisfy the basic domestic needs of the Parties operating under paragraph 1 of Article 5, its calculated level of production may, until 1 January 2002 exceed that limit by up to fifteen per cent of its calculated level of production in 1991; thereafter, it may exceed that limit by a quantity equal to the annual average of its production of the controlled substance in Annex E for basic domestic needs for the period 1995 to 1998 inclusive.
 This paragraph will apply save to the extent that the Parties decide to permit the level of production or consumption that is necessary to satisfy uses agreed by them to be critical uses.
+
+5 *bis.* Each Party shall ensure that for the twelve-month period commencing on 1 January 2005 and in each twelve-month period thereafter, its calculated level of production of the controlled substance in Annex E for the basic domestic needs of the Parties operating under paragraph 1 of Article 5 does not exceed eighty per cent of the annual average of its production of the substance for basic domestic needs for the period 1995 to 1998 inclusive.
+
+5 *ter.* Each Party shall ensure that for the twelve-month period commencing on 1 January 2015 and in each twelve-month period thereafter, its calculated level of production of the controlled substance in Annex E for the basic domestic needs of the Parties operating under paragraph 1 of Article 5 does not exceed zero.
 
 6\. The calculated levels of consumption and production under this Article shall not include the amounts used by the Party for quarantine and pre-shipment applications.
 
